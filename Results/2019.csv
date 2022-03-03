@@ -1,422 +1,422 @@
-,Round,Date,Home,xGH,xGA,Away,Attendance,GHome,GAway,Winner,Season
-0,Regular Season,2019-03-02,Philadelphia,2.4,1.9,Toronto FC,16498,1,3,Toronto FC,2019
-1,Regular Season,2019-03-02,Orlando City,2.1,1.3,NYCFC,25527,2,2,,2019
-2,Regular Season,2019-03-02,FC Dallas,0.6,0.8,New England,14327,1,1,,2019
-3,Regular Season,2019-03-02,Columbus Crew,0.9,0.9,NY Red Bulls,17931,1,1,,2019
-4,Regular Season,2019-03-02,Vancouver,0.7,2.3,Minnesota Utd,27837,2,3,Minnesota Utd,2019
-5,Regular Season,2019-03-02,Colorado Rapids,2.3,2.7,Portland Timbers,12717,3,3,,2019
-6,Regular Season,2019-03-02,Houston Dynamo,0.5,0.7,Real Salt Lake,16827,1,1,,2019
-7,Regular Season,2019-03-02,LA Galaxy,2.2,1.8,Chicago Fire,25866,2,1,LA Galaxy,2019
-8,Regular Season,2019-03-02,Seattle,2.4,0.4,FC Cincinnati,39011,4,1,Seattle,2019
-9,Regular Season,2019-03-02,San Jose,0.7,0.9,Montreal Impact,18000,1,2,Montreal Impact,2019
-10,Regular Season,2019-03-03,D.C. United,1.6,0.3,Atlanta Utd,16942,2,0,D.C. United,2019
-11,Regular Season,2019-03-03,Los Angeles FC,0.9,1.0,Sporting KC,22099,2,1,Los Angeles FC,2019
-12,Regular Season,2019-03-09,Chicago Fire,0.7,0.5,Orlando City,11041,1,1,,2019
-13,Regular Season,2019-03-09,New England,1.1,1.0,Columbus Crew,13808,0,2,Columbus Crew,2019
-14,Regular Season,2019-03-09,FC Dallas,2.3,0.7,LA Galaxy,17220,2,0,FC Dallas,2019
-15,Regular Season,2019-03-09,Houston Dynamo,0.8,0.3,Montreal Impact,12601,2,1,Houston Dynamo,2019
-16,Regular Season,2019-03-09,Real Salt Lake,1.4,1.1,Vancouver,17096,1,0,Real Salt Lake,2019
-17,Regular Season,2019-03-09,San Jose,1.2,1.8,Minnesota Utd,16411,0,3,Minnesota Utd,2019
-18,Regular Season,2019-03-09,Seattle,1.9,0.7,Colorado Rapids,37725,2,0,Seattle,2019
-19,Regular Season,2019-03-10,Sporting KC,1.9,1.7,Philadelphia,18738,2,0,Sporting KC,2019
-20,Regular Season,2019-03-10,NYCFC,0.7,0.9,D.C. United,24361,0,0,,2019
-21,Regular Season,2019-03-10,Atlanta Utd,0.6,0.7,FC Cincinnati,70382,1,1,,2019
-22,Regular Season,2019-03-10,Los Angeles FC,3.5,0.6,Portland Timbers,22003,4,1,Los Angeles FC,2019
-23,Regular Season,2019-03-16,Chicago Fire,1.9,3.3,Seattle,10032,2,4,Seattle,2019
-25,Regular Season,2019-03-16,Columbus Crew,0.8,0.6,FC Dallas,9687,1,0,Columbus Crew,2019
-26,Regular Season,2019-03-16,Houston Dynamo,3.8,1.2,Vancouver,13549,3,2,Houston Dynamo,2019
-27,Regular Season,2019-03-16,NY Red Bulls,2.8,0.6,San Jose,15621,4,1,NY Red Bulls,2019
-28,Regular Season,2019-03-16,Orlando City,1.8,2.7,Montreal Impact,22352,1,3,Montreal Impact,2019
-29,Regular Season,2019-03-16,D.C. United,3.9,0.3,Real Salt Lake,17190,5,0,D.C. United,2019
-30,Regular Season,2019-03-16,LA Galaxy,2.9,1.4,Minnesota Utd,21177,3,2,LA Galaxy,2019
-31,Regular Season,2019-03-17,NYCFC,1.1,2.0,Los Angeles FC,20339,2,2,,2019
-32,Regular Season,2019-03-17,FC Cincinnati,1.7,1.1,Portland Timbers,32250,3,0,FC Cincinnati,2019
-33,Regular Season,2019-03-17,Atlanta Utd,1.2,1.5,Philadelphia,42651,1,1,,2019
-34,Regular Season,2019-03-17,Toronto FC,2.2,1.0,New England,23271,3,2,Toronto FC,2019
-35,Regular Season,2019-03-17,Colorado Rapids,1.6,1.0,Sporting KC,11037,1,1,,2019
-36,Regular Season,2019-03-23,FC Dallas,2.0,1.2,Colorado Rapids,14514,2,1,FC Dallas,2019
-37,Regular Season,2019-03-23,Philadelphia,1.6,0.5,Columbus Crew,15135,3,0,Philadelphia,2019
-38,Regular Season,2019-03-23,NY Red Bulls,0.6,0.9,Orlando City,15108,0,1,Orlando City,2019
-39,Regular Season,2019-03-23,Los Angeles FC,1.0,0.8,Real Salt Lake,22023,2,1,Los Angeles FC,2019
-40,Regular Season,2019-03-24,New England,1.7,1.5,FC Cincinnati,10605,0,2,FC Cincinnati,2019
-41,Regular Season,2019-03-29,Toronto FC,3.2,0.6,NYCFC,25447,4,0,Toronto FC,2019
-42,Regular Season,2019-03-30,Chicago Fire,1.8,0.3,NY Red Bulls,12013,1,0,Chicago Fire,2019
-43,Regular Season,2019-03-30,New England,1.2,1.8,Minnesota Utd,10657,2,1,New England,2019
-44,Regular Season,2019-03-30,Sporting KC,4.1,1.1,Montreal Impact,18632,7,1,Sporting KC,2019
-45,Regular Season,2019-03-30,San Jose,0.2,4.2,Los Angeles FC,18000,0,5,Los Angeles FC,2019
-46,Regular Season,2019-03-30,Columbus Crew,2.0,1.0,Atlanta Utd,10973,2,0,Columbus Crew,2019
-47,Regular Season,2019-03-30,FC Cincinnati,0.3,1.9,Philadelphia,25867,0,2,Philadelphia,2019
-48,Regular Season,2019-03-30,Real Salt Lake,0.4,1.4,FC Dallas,18220,2,4,FC Dallas,2019
-49,Regular Season,2019-03-30,Colorado Rapids,1.8,1.7,Houston Dynamo,11061,1,4,Houston Dynamo,2019
-51,Regular Season,2019-03-30,Vancouver,1.1,1.2,Seattle,24803,0,0,,2019
-52,Regular Season,2019-03-31,Orlando City,1.3,0.4,D.C. United,22481,1,2,D.C. United,2019
-53,Regular Season,2019-03-31,LA Galaxy,2.4,1.5,Portland Timbers,23820,2,1,LA Galaxy,2019
-54,Regular Season,2019-04-05,Vancouver,1.6,1.4,LA Galaxy,22120,0,2,LA Galaxy,2019
-55,Regular Season,2019-04-06,NYCFC,0.6,0.3,Montreal Impact,19353,0,0,,2019
-56,Regular Season,2019-04-06,D.C. United,1.0,2.6,Los Angeles FC,20600,0,4,Los Angeles FC,2019
-57,Regular Season,2019-04-06,Toronto FC,1.4,1.0,Chicago Fire,26256,2,2,,2019
-58,Regular Season,2019-04-06,NY Red Bulls,0.7,1.0,Minnesota Utd,15706,1,2,Minnesota Utd,2019
-59,Regular Season,2019-04-06,Philadelphia,2.2,0.3,FC Dallas,15844,2,1,Philadelphia,2019
-60,Regular Season,2019-04-06,Orlando City,2.7,1.4,Colorado Rapids,22450,4,3,Orlando City,2019
-61,Regular Season,2019-04-06,Columbus Crew,0.6,0.8,New England,10942,1,0,Columbus Crew,2019
-62,Regular Season,2019-04-06,San Jose,3.4,1.2,Portland Timbers,16233,3,0,San Jose,2019
-63,Regular Season,2019-04-06,Seattle,1.0,0.7,Real Salt Lake,37722,1,0,Seattle,2019
-64,Regular Season,2019-04-07,FC Cincinnati,1.9,2.7,Sporting KC,26023,1,1,,2019
-65,Regular Season,2019-04-09,D.C. United,0.2,0.4,Montreal Impact,18116,0,0,,2019
-66,Regular Season,2019-04-12,Chicago Fire,1.8,0.4,Vancouver,10439,1,1,,2019
-67,Regular Season,2019-04-13,Montreal Impact,0.7,1.2,Columbus Crew,18634,1,0,Montreal Impact,2019
-68,Regular Season,2019-04-13,Houston Dynamo,2.9,0.7,San Jose,14476,2,1,Houston Dynamo,2019
-69,Regular Season,2019-04-13,Seattle,1.6,0.6,Toronto FC,37722,3,2,Seattle,2019
-70,Regular Season,2019-04-13,Minnesota Utd,1.6,1.0,NYCFC,19796,3,3,,2019
-71,Regular Season,2019-04-13,New England,0.3,2.8,Atlanta Utd,15016,0,2,Atlanta Utd,2019
-72,Regular Season,2019-04-13,FC Dallas,2.1,1.3,Portland Timbers,14376,2,1,FC Dallas,2019
-73,Regular Season,2019-04-13,Colorado Rapids,1.4,0.9,D.C. United,15094,2,3,D.C. United,2019
-74,Regular Season,2019-04-13,Real Salt Lake,0.8,0.7,Orlando City,16770,2,1,Real Salt Lake,2019
-75,Regular Season,2019-04-13,LA Galaxy,1.2,0.6,Philadelphia,24053,2,0,LA Galaxy,2019
-77,Regular Season,2019-04-13,Los Angeles FC,1.7,1.0,FC Cincinnati,22323,2,0,Los Angeles FC,2019
-78,Regular Season,2019-04-14,Sporting KC,2.5,1.2,NY Red Bulls,17897,2,2,,2019
-79,Regular Season,2019-04-17,Vancouver,0.9,0.9,Los Angeles FC,17038,1,0,Vancouver,2019
-80,Regular Season,2019-04-19,FC Cincinnati,0.8,2.1,Real Salt Lake,26416,0,3,Real Salt Lake,2019
-81,Regular Season,2019-04-19,Toronto FC,2.6,2.8,Minnesota Utd,22651,4,3,Toronto FC,2019
-82,Regular Season,2019-04-19,LA Galaxy,2.0,1.8,Houston Dynamo,21503,2,1,LA Galaxy,2019
-83,Regular Season,2019-04-20,Chicago Fire,2.7,0.6,Colorado Rapids,12967,4,1,Chicago Fire,2019
-84,Regular Season,2019-04-20,Philadelphia,1.2,0.4,Montreal Impact,15407,3,0,Philadelphia,2019
-85,Regular Season,2019-04-20,Orlando City,1.2,0.7,Vancouver,22468,1,0,Orlando City,2019
-86,Regular Season,2019-04-20,Atlanta Utd,2.5,1.1,FC Dallas,43351,1,2,FC Dallas,2019
-87,Regular Season,2019-04-20,New England,1.1,0.8,NY Red Bulls,14514,1,0,New England,2019
-88,Regular Season,2019-04-20,Columbus Crew,1.2,1.5,Portland Timbers,11707,1,3,Portland Timbers,2019
-89,Regular Season,2019-04-20,San Jose,1.6,3.0,Sporting KC,15777,4,1,San Jose,2019
-90,Regular Season,2019-04-21,D.C. United,0.9,1.8,NYCFC,18004,0,2,NYCFC,2019
-91,Regular Season,2019-04-21,Los Angeles FC,2.5,0.4,Seattle,22221,4,1,Los Angeles FC,2019
-92,Regular Season,2019-04-24,NYCFC,,,Chicago Fire,21791,1,0,NYCFC,2019
-93,Regular Season,2019-04-24,Columbus Crew,1.0,0.8,D.C. United,10169,0,1,D.C. United,2019
-94,Regular Season,2019-04-24,New England,0.5,2.1,Montreal Impact,9422,0,3,Montreal Impact,2019
-95,Regular Season,2019-04-24,Minnesota Utd,0.8,0.3,LA Galaxy,19779,0,0,,2019
-96,Regular Season,2019-04-24,Seattle,1.5,1.6,San Jose,37722,2,2,,2019
-97,Regular Season,2019-04-27,NYCFC,1.5,0.6,Orlando City,20862,1,1,,2019
-98,Regular Season,2019-04-27,Toronto FC,0.9,1.3,Portland Timbers,24832,1,2,Portland Timbers,2019
-99,Regular Season,2019-04-27,FC Dallas,0.3,0.9,San Jose,14087,0,0,,2019
-100,Regular Season,2019-04-27,Vancouver,0.7,0.8,Philadelphia,17835,1,1,,2019
-101,Regular Season,2019-04-27,Atlanta Utd,0.9,0.4,Colorado Rapids,43005,1,0,Atlanta Utd,2019
-103,Regular Season,2019-04-27,NY Red Bulls,0.9,0.7,FC Cincinnati,16848,1,0,NY Red Bulls,2019
-104,Regular Season,2019-04-27,Houston Dynamo,1.7,0.9,Columbus Crew,15557,2,0,Houston Dynamo,2019
-105,Regular Season,2019-04-27,Sporting KC,3.2,2.4,New England,18511,4,4,,2019
-106,Regular Season,2019-04-28,Montreal Impact,0.8,0.8,Chicago Fire,15758,1,0,Montreal Impact,2019
-107,Regular Season,2019-04-28,Minnesota Utd,0.8,0.5,D.C. United,19620,1,0,Minnesota Utd,2019
-108,Regular Season,2019-04-28,Seattle,0.6,3.9,Los Angeles FC,38581,1,1,,2019
-109,Regular Season,2019-04-28,LA Galaxy,1.9,1.4,Real Salt Lake,20615,2,1,LA Galaxy,2019
-110,Regular Season,2019-05-01,Philadelphia,2.0,1.0,FC Cincinnati,12890,2,0,Philadelphia,2019
-111,Regular Season,2019-05-03,Colorado Rapids,2.1,1.6,Vancouver,10794,2,3,Vancouver,2019
-112,Regular Season,2019-05-04,NY Red Bulls,2.1,2.6,LA Galaxy,20128,3,2,NY Red Bulls,2019
-113,Regular Season,2019-05-04,Houston Dynamo,1.6,1.7,FC Dallas,16521,2,1,Houston Dynamo,2019
-114,Regular Season,2019-05-04,Orlando City,1.1,1.2,Toronto FC,22377,0,2,Toronto FC,2019
-115,Regular Season,2019-05-04,Montreal Impact,0.6,2.0,NYCFC,16961,0,2,NYCFC,2019
-116,Regular Season,2019-05-04,Philadelphia,3.2,2.2,New England,15565,6,1,Philadelphia,2019
-117,Regular Season,2019-05-04,Minnesota Utd,0.8,0.8,Seattle,19832,1,1,,2019
-118,Regular Season,2019-05-04,D.C. United,1.5,0.5,Columbus Crew,16687,3,1,D.C. United,2019
-119,Regular Season,2019-05-04,Real Salt Lake,1.4,0.3,Portland Timbers,18066,1,2,Portland Timbers,2019
-120,Regular Season,2019-05-04,San Jose,0.7,0.7,FC Cincinnati,16743,1,0,San Jose,2019
-121,Regular Season,2019-05-04,Los Angeles FC,2.0,1.1,Chicago Fire,22154,0,0,,2019
-122,Regular Season,2019-05-05,Sporting KC,0.5,1.7,Atlanta Utd,18518,0,3,Atlanta Utd,2019
-123,Regular Season,2019-05-08,Atlanta Utd,1.3,0.7,Toronto FC,42537,2,0,Atlanta Utd,2019
-124,Regular Season,2019-05-08,Columbus Crew,1.5,1.3,LA Galaxy,13207,3,1,Columbus Crew,2019
-125,Regular Season,2019-05-08,Chicago Fire,3.0,0.4,New England,6074,5,0,Chicago Fire,2019
-126,Regular Season,2019-05-08,NY Red Bulls,0.7,1.3,Montreal Impact,11115,1,2,Montreal Impact,2019
-127,Regular Season,2019-05-10,Vancouver,1.5,1.8,Portland Timbers,18356,1,0,Vancouver,2019
-129,Regular Season,2019-05-11,FC Cincinnati,0.7,1.2,Montreal Impact,26258,2,1,FC Cincinnati,2019
-130,Regular Season,2019-05-11,FC Dallas,1.1,1.0,NY Red Bulls,12263,1,3,NY Red Bulls,2019
-131,Regular Season,2019-05-11,Toronto FC,0.9,1.0,Philadelphia,26219,1,2,Philadelphia,2019
-132,Regular Season,2019-05-11,LA Galaxy,1.4,1.6,NYCFC,22806,0,2,NYCFC,2019
-133,Regular Season,2019-05-11,Columbus Crew,0.5,2.1,Los Angeles FC,18048,0,3,Los Angeles FC,2019
-134,Regular Season,2019-05-11,New England,1.4,1.0,San Jose,20610,3,1,New England,2019
-135,Regular Season,2019-05-11,Chicago Fire,2.4,0.3,Minnesota Utd,11531,2,0,Chicago Fire,2019
-136,Regular Season,2019-05-11,Colorado Rapids,2.4,2.4,Real Salt Lake,15437,2,3,Real Salt Lake,2019
-137,Regular Season,2019-05-11,Seattle,0.7,1.3,Houston Dynamo,39232,1,0,Seattle,2019
-138,Regular Season,2019-05-12,Atlanta Utd,1.5,1.6,Orlando City,68152,1,0,Atlanta Utd,2019
-139,Regular Season,2019-05-12,D.C. United,0.6,0.8,Sporting KC,12521,1,0,D.C. United,2019
-140,Regular Season,2019-05-15,Toronto FC,1.9,0.1,D.C. United,26116,0,0,,2019
-141,Regular Season,2019-05-15,Houston Dynamo,1.4,1.5,Portland Timbers,13327,1,1,,2019
-142,Regular Season,2019-05-15,Vancouver,0.3,1.8,Atlanta Utd,16138,0,1,Atlanta Utd,2019
-143,Regular Season,2019-05-15,Seattle,1.7,0.4,Orlando City,37722,2,1,Seattle,2019
-144,Regular Season,2019-05-16,Los Angeles FC,2.7,0.4,FC Dallas,22001,2,0,Los Angeles FC,2019
-145,Regular Season,2019-05-18,Montreal Impact,0.8,0.4,New England,15559,0,0,,2019
-146,Regular Season,2019-05-18,Real Salt Lake,1.5,0.8,Toronto FC,15949,3,0,Real Salt Lake,2019
-147,Regular Season,2019-05-18,San Jose,3.1,1.5,Chicago Fire,15232,4,1,San Jose,2019
-148,Regular Season,2019-05-18,Philadelphia,1.2,0.2,Seattle,18540,0,0,,2019
-149,Regular Season,2019-05-18,Minnesota Utd,1.3,0.1,Columbus Crew,19600,1,0,Minnesota Utd,2019
-150,Regular Season,2019-05-18,Houston Dynamo,1.9,1.1,D.C. United,15811,2,1,Houston Dynamo,2019
-151,Regular Season,2019-05-18,Sporting KC,1.3,0.8,Vancouver,18691,1,1,,2019
-152,Regular Season,2019-05-19,Orlando City,2.0,0.4,FC Cincinnati,22341,5,1,Orlando City,2019
-153,Regular Season,2019-05-19,NY Red Bulls,0.9,0.8,Atlanta Utd,18495,1,0,NY Red Bulls,2019
-155,Regular Season,2019-05-19,FC Dallas,0.7,2.6,Los Angeles FC,15135,1,1,,2019
-156,Regular Season,2019-05-19,LA Galaxy,1.8,2.9,Colorado Rapids,19015,0,1,Colorado Rapids,2019
-157,Regular Season,2019-05-22,NY Red Bulls,1.4,2.2,Vancouver,13035,2,2,,2019
-158,Regular Season,2019-05-24,Orlando City,2.7,0.8,LA Galaxy,24712,0,1,LA Galaxy,2019
-159,Regular Season,2019-05-24,Real Salt Lake,1.1,1.0,Atlanta Utd,17214,2,1,Real Salt Lake,2019
-160,Regular Season,2019-05-24,Los Angeles FC,3.5,1.3,Montreal Impact,22444,4,2,Los Angeles FC,2019
-161,Regular Season,2019-05-25,Chicago Fire,1.7,1.1,NYCFC,10986,1,1,,2019
-162,Regular Season,2019-05-25,Vancouver,0.6,1.4,FC Dallas,18309,2,1,Vancouver,2019
-163,Regular Season,2019-05-25,FC Cincinnati,1.5,1.4,NY Red Bulls,28290,0,2,NY Red Bulls,2019
-164,Regular Season,2019-05-25,New England,0.9,2.3,D.C. United,20131,1,1,,2019
-165,Regular Season,2019-05-25,Philadelphia,1.9,1.8,Portland Timbers,18474,1,3,Portland Timbers,2019
-166,Regular Season,2019-05-25,Minnesota Utd,1.4,1.0,Houston Dynamo,19701,1,0,Minnesota Utd,2019
-167,Regular Season,2019-05-25,Colorado Rapids,1.0,1.5,Columbus Crew,16843,3,2,Colorado Rapids,2019
-168,Regular Season,2019-05-26,Sporting KC,1.8,1.1,Seattle,19882,3,2,Sporting KC,2019
-169,Regular Season,2019-05-26,Toronto FC,0.8,1.4,San Jose,23524,1,2,San Jose,2019
-170,Regular Season,2019-05-29,Atlanta Utd,1.7,0.7,Minnesota Utd,42703,3,0,Atlanta Utd,2019
-171,Regular Season,2019-05-29,Montreal Impact,1.6,0.8,Real Salt Lake,11966,2,1,Montreal Impact,2019
-172,Regular Season,2019-05-29,D.C. United,1.7,3.0,Chicago Fire,14201,3,3,,2019
-173,Regular Season,2019-05-29,Sporting KC,1.1,0.8,LA Galaxy,19979,0,2,LA Galaxy,2019
-174,Regular Season,2019-05-29,Philadelphia,2.2,1.1,Colorado Rapids,14207,1,1,,2019
-175,Regular Season,2019-05-31,Vancouver,0.9,0.4,Toronto FC,21083,1,1,,2019
-176,Regular Season,2019-06-01,Montreal Impact,0.9,2.3,Orlando City,17018,0,3,Orlando City,2019
-177,Regular Season,2019-06-01,Atlanta Utd,1.6,0.9,Chicago Fire,67502,2,0,Atlanta Utd,2019
-178,Regular Season,2019-06-01,NY Red Bulls,1.9,0.6,Real Salt Lake,19122,4,0,NY Red Bulls,2019
-179,Regular Season,2019-06-01,Columbus Crew,1.6,1.2,NYCFC,13704,2,2,,2019
-181,Regular Season,2019-06-01,FC Dallas,0.7,0.1,Seattle,14327,2,1,FC Dallas,2019
-182,Regular Season,2019-06-01,D.C. United,0.7,1.3,San Jose,18002,1,1,,2019
-183,Regular Season,2019-06-01,Colorado Rapids,2.3,1.2,FC Cincinnati,16998,3,1,Colorado Rapids,2019
-184,Regular Season,2019-06-01,Houston Dynamo,1.5,0.3,Sporting KC,15710,1,1,,2019
-185,Regular Season,2019-06-01,Portland Timbers,1.9,2.0,Los Angeles FC,25218,2,3,Los Angeles FC,2019
-186,Regular Season,2019-06-02,Minnesota Utd,2.5,2.0,Philadelphia,19738,2,3,Philadelphia,2019
-187,Regular Season,2019-06-02,LA Galaxy,1.0,2.0,New England,20828,1,2,New England,2019
-188,Regular Season,2019-06-05,Montreal Impact,1.6,0.8,Seattle,13037,2,1,Montreal Impact,2019
-189,Regular Season,2019-06-06,NYCFC,2.6,1.3,FC Cincinnati,18597,5,2,NYCFC,2019
-190,Regular Season,2019-06-07,Toronto FC,2.2,1.8,Sporting KC,24748,2,2,,2019
-191,Regular Season,2019-06-08,San Jose,0.9,0.5,FC Dallas,16841,2,2,,2019
-192,Regular Season,2019-06-08,Philadelphia,2.4,0.8,NY Red Bulls,18767,3,2,Philadelphia,2019
-193,Regular Season,2019-06-08,Colorado Rapids,0.5,0.8,Minnesota Utd,14160,1,0,Colorado Rapids,2019
-194,Regular Season,2019-06-22,FC Cincinnati,0.6,1.8,LA Galaxy,32250,0,2,LA Galaxy,2019
-195,Regular Season,2019-06-22,Chicago Fire,0.3,1.1,Real Salt Lake,15609,1,1,,2019
-196,Regular Season,2019-06-22,FC Dallas,2.9,0.5,Toronto FC,13623,3,0,FC Dallas,2019
-197,Regular Season,2019-06-22,Vancouver,2.2,2.3,Colorado Rapids,19893,2,2,,2019
-198,Regular Season,2019-06-22,Portland Timbers,2.6,0.5,Houston Dynamo,25218,4,0,Portland Timbers,2019
-199,Regular Season,2019-06-23,Columbus Crew,0.6,1.5,Sporting KC,14015,0,1,Sporting KC,2019
-200,Regular Season,2019-06-26,New England,0.9,1.8,Philadelphia,11571,1,1,,2019
-201,Regular Season,2019-06-26,Montreal Impact,1.0,1.5,Portland Timbers,15167,2,1,Montreal Impact,2019
-202,Regular Season,2019-06-26,Toronto FC,2.1,2.5,Atlanta Utd,24598,3,2,Toronto FC,2019
-203,Regular Season,2019-06-26,D.C. United,0.7,1.4,Orlando City,17398,1,0,D.C. United,2019
-204,Regular Season,2019-06-26,FC Dallas,2.7,0.4,Vancouver,11911,2,2,,2019
-205,Regular Season,2019-06-26,San Jose,2.2,0.5,Houston Dynamo,15563,2,0,San Jose,2019
-207,Regular Season,2019-06-28,NY Red Bulls,2.5,2.4,Chicago Fire,17563,3,1,NY Red Bulls,2019
-208,Regular Season,2019-06-28,Colorado Rapids,0.7,0.8,Los Angeles FC,15968,1,0,Colorado Rapids,2019
-209,Regular Season,2019-06-29,Minnesota Utd,3.4,0.4,FC Cincinnati,19778,7,1,Minnesota Utd,2019
-210,Regular Season,2019-06-29,Atlanta Utd,1.4,0.9,Montreal Impact,44627,2,1,Atlanta Utd,2019
-211,Regular Season,2019-06-29,NYCFC,2.7,1.1,Philadelphia,24451,4,2,NYCFC,2019
-212,Regular Season,2019-06-29,Columbus Crew,0.2,0.3,Orlando City,17715,0,2,Orlando City,2019
-213,Regular Season,2019-06-29,New England,2.2,0.8,Houston Dynamo,17372,2,1,New England,2019
-214,Regular Season,2019-06-29,D.C. United,1.7,1.1,Toronto FC,18854,1,1,,2019
-215,Regular Season,2019-06-29,Seattle,1.5,0.6,Vancouver,44489,1,0,Seattle,2019
-216,Regular Season,2019-06-29,San Jose,1.1,0.8,LA Galaxy,50850,3,0,San Jose,2019
-217,Regular Season,2019-06-29,Real Salt Lake,1.5,0.6,Sporting KC,18933,2,0,Real Salt Lake,2019
-218,Regular Season,2019-06-30,Portland Timbers,1.1,1.4,FC Dallas,25218,1,0,Portland Timbers,2019
-219,Regular Season,2019-07-03,NYCFC,2.2,0.6,Seattle,18217,3,0,NYCFC,2019
-220,Regular Season,2019-07-03,Orlando City,0.9,2.3,Philadelphia,22364,1,3,Philadelphia,2019
-221,Regular Season,2019-07-03,Minnesota Utd,1.7,2.0,San Jose,19653,3,1,Minnesota Utd,2019
-222,Regular Season,2019-07-03,Chicago Fire,3.4,0.9,Atlanta Utd,13476,5,1,Chicago Fire,2019
-223,Regular Season,2019-07-03,Sporting KC,3.2,2.5,Los Angeles FC,19754,1,5,Los Angeles FC,2019
-224,Regular Season,2019-07-03,Houston Dynamo,2.1,0.6,NY Red Bulls,19531,4,0,Houston Dynamo,2019
-225,Regular Season,2019-07-03,Real Salt Lake,0.9,0.7,Columbus Crew,19030,1,0,Real Salt Lake,2019
-226,Regular Season,2019-07-04,Colorado Rapids,1.5,1.1,New England,15584,1,2,New England,2019
-227,Regular Season,2019-07-04,FC Dallas,2.6,0.5,D.C. United,19096,2,0,FC Dallas,2019
-228,Regular Season,2019-07-04,LA Galaxy,1.2,1.1,Toronto FC,25482,2,0,LA Galaxy,2019
-229,Regular Season,2019-07-06,Montreal Impact,0.8,1.5,Minnesota Utd,16796,2,3,Minnesota Utd,2019
-230,Regular Season,2019-07-06,FC Cincinnati,1.4,1.9,Houston Dynamo,26276,3,2,FC Cincinnati,2019
-231,Regular Season,2019-07-06,Columbus Crew,1.7,1.8,Seattle,14183,1,2,Seattle,2019
-233,Regular Season,2019-07-06,Sporting KC,2.6,0.3,Chicago Fire,18570,1,0,Sporting KC,2019
-234,Regular Season,2019-07-06,San Jose,0.6,0.8,Real Salt Lake,15339,1,0,San Jose,2019
-235,Regular Season,2019-07-06,Los Angeles FC,2.3,0.7,Vancouver,22472,6,1,Los Angeles FC,2019
-236,Regular Season,2019-07-07,Atlanta Utd,1.7,1.8,NY Red Bulls,68077,3,3,,2019
-237,Regular Season,2019-07-07,Philadelphia,1.5,1.0,Orlando City,18574,2,2,,2019
-238,Regular Season,2019-07-07,NYCFC,1.2,0.8,Portland Timbers,18363,0,1,Portland Timbers,2019
-239,Regular Season,2019-07-12,D.C. United,1.4,1.1,New England,18903,2,2,,2019
-240,Regular Season,2019-07-12,Houston Dynamo,2.2,1.5,Los Angeles FC,17219,1,3,Los Angeles FC,2019
-241,Regular Season,2019-07-12,LA Galaxy,0.5,2.1,San Jose,22508,1,3,San Jose,2019
-242,Regular Season,2019-07-13,Montreal Impact,1.3,1.5,Toronto FC,19619,0,2,Toronto FC,2019
-243,Regular Season,2019-07-13,Orlando City,0.6,0.8,Columbus Crew,22397,1,0,Orlando City,2019
-244,Regular Season,2019-07-13,Minnesota Utd,1.2,1.3,FC Dallas,19906,1,0,Minnesota Utd,2019
-245,Regular Season,2019-07-13,Chicago Fire,3.0,1.0,FC Cincinnati,13127,1,2,FC Cincinnati,2019
-246,Regular Season,2019-07-13,Vancouver,0.9,1.7,Sporting KC,18700,0,3,Sporting KC,2019
-247,Regular Season,2019-07-13,Real Salt Lake,1.9,0.2,Philadelphia,18925,4,0,Real Salt Lake,2019
-248,Regular Season,2019-07-13,Portland Timbers,1.2,1.3,Colorado Rapids,25218,2,2,,2019
-249,Regular Season,2019-07-14,Seattle,2.5,0.6,Atlanta Utd,38232,2,1,Seattle,2019
-250,Regular Season,2019-07-14,NY Red Bulls,1.3,0.9,NYCFC,20128,2,1,NY Red Bulls,2019
-251,Regular Season,2019-07-17,Atlanta Utd,3.6,0.3,Houston Dynamo,42557,5,0,Atlanta Utd,2019
-252,Regular Season,2019-07-17,New England,2.7,0.7,Vancouver,10575,4,0,New England,2019
-253,Regular Season,2019-07-17,Chicago Fire,1.2,0.8,Columbus Crew,7482,2,2,,2019
-254,Regular Season,2019-07-17,Toronto FC,1.7,2.0,NY Red Bulls,24462,3,1,Toronto FC,2019
-255,Regular Season,2019-07-18,FC Cincinnati,1.2,1.0,D.C. United,28774,1,4,D.C. United,2019
-256,Regular Season,2019-07-18,Portland Timbers,1.5,0.3,Orlando City,25218,1,1,,2019
-257,Regular Season,2019-07-19,LA Galaxy,0.7,1.7,Los Angeles FC,27088,3,2,LA Galaxy,2019
-259,Regular Season,2019-07-20,Columbus Crew,2.1,1.3,Montreal Impact,15124,2,1,Columbus Crew,2019
-260,Regular Season,2019-07-20,Philadelphia,1.1,0.6,Chicago Fire,17471,2,0,Philadelphia,2019
-261,Regular Season,2019-07-20,Toronto FC,1.4,1.4,Houston Dynamo,25949,1,3,Houston Dynamo,2019
-262,Regular Season,2019-07-20,Sporting KC,1.4,2.2,FC Dallas,18736,0,2,FC Dallas,2019
-263,Regular Season,2019-07-20,Colorado Rapids,0.2,2.3,NYCFC,15359,1,2,NYCFC,2019
-264,Regular Season,2019-07-20,Vancouver,0.3,2.5,San Jose,17558,1,3,San Jose,2019
-265,Regular Season,2019-07-20,Real Salt Lake,0.7,0.9,Minnesota Utd,16992,1,1,,2019
-266,Regular Season,2019-07-21,Atlanta Utd,2.4,0.6,D.C. United,44405,2,0,Atlanta Utd,2019
-267,Regular Season,2019-07-21,FC Cincinnati,0.8,1.9,New England,25095,0,2,New England,2019
-268,Regular Season,2019-07-21,Orlando City,1.2,1.2,NY Red Bulls,22408,0,1,NY Red Bulls,2019
-269,Regular Season,2019-07-21,Seattle,3.5,2.1,Portland Timbers,50072,1,2,Portland Timbers,2019
-270,Regular Season,2019-07-26,NYCFC,1.7,1.7,Sporting KC,20178,3,1,NYCFC,2019
-271,Regular Season,2019-07-26,Los Angeles FC,2.1,1.2,Atlanta Utd,22511,4,3,Los Angeles FC,2019
-272,Regular Season,2019-07-27,New England,1.9,1.0,Orlando City,19043,4,1,New England,2019
-273,Regular Season,2019-07-27,NY Red Bulls,2.0,2.0,Columbus Crew,16126,2,3,Columbus Crew,2019
-274,Regular Season,2019-07-27,Minnesota Utd,2.1,0.2,Vancouver,19845,0,0,,2019
-275,Regular Season,2019-07-27,FC Dallas,0.8,0.9,Real Salt Lake,14717,0,0,,2019
-276,Regular Season,2019-07-27,Houston Dynamo,0.8,0.8,Seattle,15138,0,1,Seattle,2019
-277,Regular Season,2019-07-27,Chicago Fire,2.1,0.5,D.C. United,18232,0,0,,2019
-278,Regular Season,2019-07-27,Montreal Impact,1.4,0.6,Philadelphia,16344,4,0,Montreal Impact,2019
-279,Regular Season,2019-07-27,Toronto FC,0.4,0.5,FC Cincinnati,25765,2,1,Toronto FC,2019
-280,Regular Season,2019-07-27,San Jose,1.5,1.0,Colorado Rapids,17762,3,1,San Jose,2019
-281,Regular Season,2019-07-27,Portland Timbers,2.0,2.4,LA Galaxy,25218,4,0,Portland Timbers,2019
-282,Regular Season,2019-08-03,Atlanta Utd,2.7,0.8,LA Galaxy,72548,3,0,Atlanta Utd,2019
-283,Regular Season,2019-08-03,NY Red Bulls,3.3,0.9,Toronto FC,20128,2,0,NY Red Bulls,2019
-285,Regular Season,2019-08-03,Orlando City,1.5,0.3,FC Dallas,22479,2,0,Orlando City,2019
-286,Regular Season,2019-08-03,New England,0.5,2.3,Los Angeles FC,25515,0,2,Los Angeles FC,2019
-287,Regular Season,2019-08-03,FC Cincinnati,1.0,1.0,Vancouver,27106,1,2,Vancouver,2019
-288,Regular Season,2019-08-03,Colorado Rapids,2.8,1.5,Montreal Impact,14007,6,3,Colorado Rapids,2019
-289,Regular Season,2019-08-03,Houston Dynamo,0.5,1.5,Chicago Fire,14250,0,1,Chicago Fire,2019
-290,Regular Season,2019-08-03,San Jose,2.2,0.9,Columbus Crew,17088,1,1,,2019
-291,Regular Season,2019-08-03,Real Salt Lake,1.7,0.6,NYCFC,18282,3,1,Real Salt Lake,2019
-292,Regular Season,2019-08-04,Minnesota Utd,2.4,0.7,Portland Timbers,19726,1,0,Minnesota Utd,2019
-293,Regular Season,2019-08-04,D.C. United,1.8,3.3,Philadelphia,18697,1,5,Philadelphia,2019
-294,Regular Season,2019-08-04,Seattle,1.8,1.3,Sporting KC,37722,2,3,Sporting KC,2019
-295,Regular Season,2019-08-08,NYCFC,3.2,0.3,Houston Dynamo,18113,3,2,NYCFC,2019
-296,Regular Season,2019-08-10,Seattle,2.0,1.9,New England,38826,3,3,,2019
-297,Regular Season,2019-08-10,Toronto FC,1.1,0.7,Orlando City,24487,1,1,,2019
-298,Regular Season,2019-08-10,Columbus Crew,2.6,0.5,FC Cincinnati,20865,2,2,,2019
-299,Regular Season,2019-08-10,FC Dallas,3.1,2.1,Minnesota Utd,15168,5,3,FC Dallas,2019
-300,Regular Season,2019-08-10,Sporting KC,1.4,1.0,Real Salt Lake,18219,1,2,Real Salt Lake,2019
-301,Regular Season,2019-08-10,Colorado Rapids,0.9,1.6,San Jose,13870,2,1,Colorado Rapids,2019
-302,Regular Season,2019-08-10,Chicago Fire,1.2,1.7,Montreal Impact,11002,3,2,Chicago Fire,2019
-303,Regular Season,2019-08-10,Portland Timbers,1.2,0.8,Vancouver,25218,3,1,Portland Timbers,2019
-304,Regular Season,2019-08-11,Atlanta Utd,3.2,1.0,NYCFC,44052,2,1,Atlanta Utd,2019
-305,Regular Season,2019-08-11,Philadelphia,1.6,0.8,Houston Dynamo,18550,2,1,Philadelphia,2019
-306,Regular Season,2019-08-11,D.C. United,1.1,1.7,LA Galaxy,20006,2,1,D.C. United,2019
-307,Regular Season,2019-08-11,Los Angeles FC,3.0,1.5,NY Red Bulls,22342,4,2,Los Angeles FC,2019
-308,Regular Season,2019-08-14,Orlando City,1.2,1.1,Sporting KC,22347,1,0,Orlando City,2019
-309,Regular Season,2019-08-14,Minnesota Utd,3.1,0.4,Colorado Rapids,19629,1,0,Minnesota Utd,2019
-311,Regular Season,2019-08-14,Real Salt Lake,0.8,0.4,Seattle,17825,3,0,Real Salt Lake,2019
-312,Regular Season,2019-08-14,LA Galaxy,1.5,1.2,FC Dallas,19653,2,0,LA Galaxy,2019
-313,Regular Season,2019-08-14,Portland Timbers,2.2,0.4,Chicago Fire,25218,3,2,Portland Timbers,2019
-314,Regular Season,2019-08-17,NY Red Bulls,2.4,0.7,New England,18177,1,1,,2019
-315,Regular Season,2019-08-17,FC Cincinnati,1.5,2.0,NYCFC,27273,1,4,NYCFC,2019
-316,Regular Season,2019-08-17,Columbus Crew,1.8,0.6,Toronto FC,17494,2,2,,2019
-317,Regular Season,2019-08-17,Montreal Impact,1.5,2.3,FC Dallas,17509,3,3,,2019
-318,Regular Season,2019-08-17,Chicago Fire,1.6,1.6,Philadelphia,14883,2,0,Chicago Fire,2019
-319,Regular Season,2019-08-17,Minnesota Utd,1.7,1.0,Orlando City,19738,1,1,,2019
-320,Regular Season,2019-08-17,Sporting KC,1.4,1.7,San Jose,17941,2,1,Sporting KC,2019
-321,Regular Season,2019-08-17,Houston Dynamo,1.6,1.6,Colorado Rapids,15458,2,2,,2019
-322,Regular Season,2019-08-17,Vancouver,0.6,1.2,D.C. United,22120,1,0,Vancouver,2019
-323,Regular Season,2019-08-17,LA Galaxy,1.9,2.7,Seattle,26213,2,2,,2019
-324,Regular Season,2019-08-17,Real Salt Lake,0.5,3.0,Los Angeles FC,18213,0,2,Los Angeles FC,2019
-325,Regular Season,2019-08-18,Portland Timbers,1.2,2.5,Atlanta Utd,25218,0,2,Atlanta Utd,2019
-326,Regular Season,2019-08-21,NYCFC,1.7,0.8,Columbus Crew,19828,1,0,NYCFC,2019
-327,Regular Season,2019-08-21,D.C. United,1.2,2.7,NY Red Bulls,18302,1,2,NY Red Bulls,2019
-328,Regular Season,2019-08-21,Los Angeles FC,3.2,2.0,San Jose,22110,4,0,Los Angeles FC,2019
-329,Regular Season,2019-08-22,Sporting KC,1.2,0.7,Minnesota Utd,17083,1,0,Sporting KC,2019
-330,Regular Season,2019-08-23,Orlando City,1.8,1.7,Atlanta Utd,23014,0,1,Atlanta Utd,2019
-331,Regular Season,2019-08-23,Portland Timbers,1.9,1.3,Seattle,25218,1,2,Seattle,2019
-332,Regular Season,2019-08-24,NYCFC,1.6,1.1,NY Red Bulls,28895,2,1,NYCFC,2019
-333,Regular Season,2019-08-24,Toronto FC,1.5,0.5,Montreal Impact,28989,2,1,Toronto FC,2019
-334,Regular Season,2019-08-24,New England,1.7,0.6,Chicago Fire,16236,2,1,New England,2019
-335,Regular Season,2019-08-24,Philadelphia,2.1,0.7,D.C. United,18781,3,1,Philadelphia,2019
-337,Regular Season,2019-08-24,San Jose,4.3,0.7,Vancouver,17458,3,1,San Jose,2019
-338,Regular Season,2019-08-24,Real Salt Lake,2.4,1.7,Colorado Rapids,20384,2,0,Real Salt Lake,2019
-339,Regular Season,2019-08-25,FC Cincinnati,1.4,1.3,Columbus Crew,30611,1,3,Columbus Crew,2019
-340,Regular Season,2019-08-25,FC Dallas,2.7,1.6,Houston Dynamo,15452,5,1,FC Dallas,2019
-341,Regular Season,2019-08-25,Los Angeles FC,4.4,1.7,LA Galaxy,22757,3,3,,2019
-342,Regular Season,2019-08-28,Montreal Impact,1.5,2.8,Vancouver,14513,2,1,Montreal Impact,2019
-343,Regular Season,2019-08-31,NY Red Bulls,1.9,1.9,Colorado Rapids,17089,0,2,Colorado Rapids,2019
-344,Regular Season,2019-08-31,Montreal Impact,1.2,1.4,D.C. United,18285,0,3,D.C. United,2019
-345,Regular Season,2019-08-31,Columbus Crew,1.1,1.6,Chicago Fire,16438,1,1,,2019
-346,Regular Season,2019-08-31,Philadelphia,1.1,2.2,Atlanta Utd,18510,3,1,Philadelphia,2019
-347,Regular Season,2019-08-31,New England,1.3,1.7,Toronto FC,16588,1,1,,2019
-348,Regular Season,2019-08-31,FC Dallas,2.5,1.0,FC Cincinnati,15811,3,1,FC Dallas,2019
-349,Regular Season,2019-08-31,Sporting KC,1.6,1.0,Houston Dynamo,18917,1,0,Sporting KC,2019
-350,Regular Season,2019-08-31,Vancouver,0.9,1.5,NYCFC,17512,1,3,NYCFC,2019
-351,Regular Season,2019-08-31,San Jose,2.4,0.4,Orlando City,17323,3,0,San Jose,2019
-352,Regular Season,2019-08-31,Portland Timbers,0.7,1.1,Real Salt Lake,25218,1,0,Portland Timbers,2019
-353,Regular Season,2019-09-01,Seattle,2.4,2.0,LA Galaxy,46673,4,3,Seattle,2019
-354,Regular Season,2019-09-01,Los Angeles FC,1.9,0.8,Minnesota Utd,22143,0,2,Minnesota Utd,2019
-355,Regular Season,2019-09-07,NYCFC,3.5,0.7,New England,21236,2,1,NYCFC,2019
-356,Regular Season,2019-09-07,Orlando City,1.4,1.2,Los Angeles FC,22371,2,2,,2019
-357,Regular Season,2019-09-07,FC Cincinnati,1.4,1.1,Toronto FC,25339,1,5,Toronto FC,2019
-358,Regular Season,2019-09-07,Colorado Rapids,2.1,0.4,Seattle,16607,2,0,Colorado Rapids,2019
-359,Regular Season,2019-09-07,Portland Timbers,2.5,0.7,Sporting KC,25218,2,1,Portland Timbers,2019
-360,Regular Season,2019-09-11,NYCFC,0.6,3.2,Toronto FC,19267,1,1,,2019
-361,Regular Season,2019-09-11,Houston Dynamo,1.0,0.7,Minnesota Utd,13566,2,0,Houston Dynamo,2019
-363,Regular Season,2019-09-11,Colorado Rapids,1.7,1.1,LA Galaxy,10945,2,1,Colorado Rapids,2019
-364,Regular Season,2019-09-11,Real Salt Lake,1.0,0.4,San Jose,17196,1,0,Real Salt Lake,2019
-365,Regular Season,2019-09-14,NYCFC,1.6,1.3,San Jose,20679,2,1,NYCFC,2019
-366,Regular Season,2019-09-14,Chicago Fire,2.2,0.9,FC Dallas,12874,4,0,Chicago Fire,2019
-367,Regular Season,2019-09-14,Atlanta Utd,1.4,1.0,Columbus Crew,68046,1,3,Columbus Crew,2019
-368,Regular Season,2019-09-14,Orlando City,1.6,1.3,New England,22419,3,3,,2019
-369,Regular Season,2019-09-14,Philadelphia,1.0,1.6,Los Angeles FC,19145,1,1,,2019
-370,Regular Season,2019-09-14,Montreal Impact,0.9,0.6,FC Cincinnati,17159,0,1,FC Cincinnati,2019
-371,Regular Season,2019-09-14,Vancouver,1.2,1.7,Houston Dynamo,17382,2,1,Vancouver,2019
-372,Regular Season,2019-09-15,Portland Timbers,0.9,0.8,D.C. United,25218,0,1,D.C. United,2019
-373,Regular Season,2019-09-15,Toronto FC,2.6,1.8,Colorado Rapids,24810,3,2,Toronto FC,2019
-374,Regular Season,2019-09-15,Minnesota Utd,2.2,0.9,Real Salt Lake,19635,3,1,Minnesota Utd,2019
-375,Regular Season,2019-09-15,Seattle,1.9,0.5,NY Red Bulls,37722,4,2,Seattle,2019
-376,Regular Season,2019-09-15,LA Galaxy,3.1,3.2,Sporting KC,22465,7,2,LA Galaxy,2019
-377,Regular Season,2019-09-18,FC Cincinnati,1.2,1.3,Atlanta Utd,24774,0,2,Atlanta Utd,2019
-378,Regular Season,2019-09-18,Portland Timbers,1.6,2.7,NY Red Bulls,25218,0,2,NY Red Bulls,2019
-379,Regular Season,2019-09-18,Seattle,1.7,0.6,FC Dallas,37722,0,0,,2019
-380,Regular Season,2019-09-21,Atlanta Utd,2.6,0.9,San Jose,43451,3,1,Atlanta Utd,2019
-381,Regular Season,2019-09-21,Vancouver,0.8,1.8,Columbus Crew,16683,1,1,,2019
-382,Regular Season,2019-09-21,FC Cincinnati,0.8,1.1,Chicago Fire,26466,0,0,,2019
-383,Regular Season,2019-09-21,New England,1.4,0.4,Real Salt Lake,24270,0,0,,2019
-384,Regular Season,2019-09-21,Sporting KC,1.1,1.2,Colorado Rapids,18862,2,3,Colorado Rapids,2019
-385,Regular Season,2019-09-21,Houston Dynamo,1.9,0.6,Orlando City,15146,2,1,Houston Dynamo,2019
-386,Regular Season,2019-09-21,LA Galaxy,3.5,1.3,Montreal Impact,25482,2,1,LA Galaxy,2019
-387,Regular Season,2019-09-21,Los Angeles FC,2.3,0.6,Toronto FC,22022,1,1,,2019
-389,Regular Season,2019-09-22,Portland Timbers,3.0,1.3,Minnesota Utd,25218,0,0,,2019
-390,Regular Season,2019-09-22,FC Dallas,1.0,1.0,NYCFC,14663,1,1,,2019
-391,Regular Season,2019-09-22,NY Red Bulls,1.7,0.9,Philadelphia,19262,2,0,NY Red Bulls,2019
-392,Regular Season,2019-09-22,D.C. United,1.3,1.6,Seattle,18489,2,0,D.C. United,2019
-393,Regular Season,2019-09-25,NYCFC,2.7,1.3,Atlanta Utd,24290,4,1,NYCFC,2019
-394,Regular Season,2019-09-25,Minnesota Utd,1.7,2.8,Sporting KC,19609,2,1,Minnesota Utd,2019
-395,Regular Season,2019-09-25,Real Salt Lake,1.0,2.0,LA Galaxy,20838,1,2,LA Galaxy,2019
-396,Regular Season,2019-09-25,Los Angeles FC,2.3,0.7,Houston Dynamo,22103,3,1,Los Angeles FC,2019
-397,Regular Season,2019-09-25,Portland Timbers,1.8,2.4,New England,25218,2,2,,2019
-398,Regular Season,2019-09-25,San Jose,1.3,1.1,Philadelphia,16652,1,2,Philadelphia,2019
-399,Regular Season,2019-09-29,Chicago Fire,1.8,1.5,Toronto FC,17748,2,2,,2019
-400,Regular Season,2019-09-29,Columbus Crew,0.5,1.2,Philadelphia,20353,2,0,Columbus Crew,2019
-401,Regular Season,2019-09-29,NY Red Bulls,0.8,0.4,D.C. United,28118,0,0,,2019
-402,Regular Season,2019-09-29,New England,1.2,1.4,NYCFC,28602,2,0,New England,2019
-403,Regular Season,2019-09-29,Montreal Impact,1.2,1.3,Atlanta Utd,15557,1,1,,2019
-404,Regular Season,2019-09-29,FC Cincinnati,1.2,2.1,Orlando City,25652,1,1,,2019
-405,Regular Season,2019-09-29,San Jose,1.9,1.2,Seattle,18000,0,1,Seattle,2019
-406,Regular Season,2019-09-29,LA Galaxy,2.1,2.5,Vancouver,25903,3,4,Vancouver,2019
-407,Regular Season,2019-09-29,Colorado Rapids,3.0,0.8,FC Dallas,16352,3,0,Colorado Rapids,2019
-408,Regular Season,2019-09-29,Real Salt Lake,0.5,1.2,Houston Dynamo,18117,2,1,Real Salt Lake,2019
-409,Regular Season,2019-09-29,Minnesota Utd,2.2,1.8,Los Angeles FC,19706,1,1,,2019
-410,Regular Season,2019-09-29,Sporting KC,1.7,1.6,Portland Timbers,17281,2,2,,2019
-411,Regular Season,2019-10-06,Seattle,1.4,1.0,Minnesota Utd,47297,1,0,Seattle,2019
-412,Regular Season,2019-10-06,Vancouver,1.0,1.1,Real Salt Lake,18378,0,1,Real Salt Lake,2019
-413,Regular Season,2019-10-06,Los Angeles FC,1.6,1.4,Colorado Rapids,22537,3,1,Los Angeles FC,2019
-415,Regular Season,2019-10-06,Portland Timbers,2.3,0.8,San Jose,25218,3,1,Portland Timbers,2019
-416,Regular Season,2019-10-06,FC Dallas,3.0,0.5,Sporting KC,15623,6,0,FC Dallas,2019
-417,Regular Season,2019-10-06,Houston Dynamo,2.8,2.5,LA Galaxy,21777,4,2,Houston Dynamo,2019
-418,Regular Season,2019-10-06,Philadelphia,2.7,1.4,NYCFC,18525,1,2,NYCFC,2019
-419,Regular Season,2019-10-06,Atlanta Utd,1.4,1.9,New England,44617,3,1,Atlanta Utd,2019
-420,Regular Season,2019-10-06,Toronto FC,1.7,0.5,Columbus Crew,23692,1,0,Toronto FC,2019
-421,Regular Season,2019-10-06,D.C. United,2.5,0.6,FC Cincinnati,18732,0,0,,2019
-422,Regular Season,2019-10-06,Orlando City,2.4,2.0,Chicago Fire,22433,2,5,Chicago Fire,2019
-423,Regular Season,2019-10-06,Montreal Impact,1.5,0.9,NY Red Bulls,15022,3,0,Montreal Impact,2019
-424,Round 1,2019-10-19,Atlanta Utd,1.2,0.8,New England,66114,1,0,Atlanta Utd,2019
-425,Round 1,2019-10-19,Seattle,2.8,1.9,FC Dallas,37722,4,3,Seattle,2019
-426,Round 1,2019-10-19,Toronto FC,2.7,1.8,D.C. United,25331,5,1,Toronto FC,2019
-427,Round 1,2019-10-19,Real Salt Lake,1.1,0.8,Portland Timbers,17452,2,1,Real Salt Lake,2019
-428,Round 1,2019-10-20,Philadelphia,3.2,1.5,NY Red Bulls,18530,4,3,Philadelphia,2019
-429,Round 1,2019-10-20,Minnesota Utd,2.0,1.4,LA Galaxy,19939,1,2,LA Galaxy,2019
-430,Conference Semifinals,2019-10-23,NYCFC,1.3,1.8,Toronto FC,19829,1,2,Toronto FC,2019
-431,Conference Semifinals,2019-10-23,Seattle,2.0,0.3,Real Salt Lake,37722,2,0,Seattle,2019
-432,Conference Semifinals,2019-10-24,Atlanta Utd,1.4,0.8,Philadelphia,41507,2,0,Atlanta Utd,2019
-433,Conference Semifinals,2019-10-24,Los Angeles FC,2.8,1.4,LA Galaxy,22902,5,3,Los Angeles FC,2019
-434,Conference Finals,2019-10-29,Los Angeles FC,0.8,1.2,Seattle,22099,1,3,Seattle,2019
-435,Conference Finals,2019-10-30,Atlanta Utd,2.7,0.1,Toronto FC,44055,1,2,Toronto FC,2019
-436,MLS Cup 2019,2019-11-10,Seattle,1.4,1.0,Toronto FC,69274,3,1,Seattle,2019
+,Round,Date,Home,xGH,xGA,Away,Venue,Attendance,GHome,GAway,Winner,Season
+0,Regular Season,2019-03-02,Philadelphia,2.4,1.9,Toronto FC,Subaru Park,16498,1,3,Toronto FC,2019
+1,Regular Season,2019-03-02,Orlando City,2.1,1.3,NYCFC,Exploria Stadium,25527,2,2,,2019
+2,Regular Season,2019-03-02,FC Dallas,0.6,0.8,New England,Toyota Stadium,14327,1,1,,2019
+3,Regular Season,2019-03-02,Columbus Crew,0.9,0.9,NY Red Bulls,MAPFRE Stadium,17931,1,1,,2019
+4,Regular Season,2019-03-02,Vancouver,0.7,2.3,Minnesota Utd,BC Place,27837,2,3,Minnesota Utd,2019
+5,Regular Season,2019-03-02,Colorado Rapids,2.3,2.7,Portland Timbers,Dick's Sporting Goods Park,12717,3,3,,2019
+6,Regular Season,2019-03-02,Houston Dynamo,0.5,0.7,Real Salt Lake,BBVA Compass Stadium,16827,1,1,,2019
+7,Regular Season,2019-03-02,LA Galaxy,2.2,1.8,Chicago Fire,Dignity Health Sports Park,25866,2,1,LA Galaxy,2019
+8,Regular Season,2019-03-02,Seattle,2.4,0.4,FC Cincinnati,CenturyLink Field,39011,4,1,Seattle,2019
+9,Regular Season,2019-03-02,San Jose,0.7,0.9,Montreal Impact,Avaya Stadium,18000,1,2,Montreal Impact,2019
+10,Regular Season,2019-03-03,D.C. United,1.6,0.3,Atlanta Utd,Audi Field,16942,2,0,D.C. United,2019
+11,Regular Season,2019-03-03,Los Angeles FC,0.9,1.0,Sporting KC,Banc of California Stadium,22099,2,1,Los Angeles FC,2019
+12,Regular Season,2019-03-09,Chicago Fire,0.7,0.5,Orlando City,SeatGeek Stadium,11041,1,1,,2019
+13,Regular Season,2019-03-09,New England,1.1,1.0,Columbus Crew,Gillette Stadium,13808,0,2,Columbus Crew,2019
+14,Regular Season,2019-03-09,FC Dallas,2.3,0.7,LA Galaxy,Toyota Stadium,17220,2,0,FC Dallas,2019
+15,Regular Season,2019-03-09,Houston Dynamo,0.8,0.3,Montreal Impact,BBVA Compass Stadium,12601,2,1,Houston Dynamo,2019
+16,Regular Season,2019-03-09,Real Salt Lake,1.4,1.1,Vancouver,Rio Tinto Stadium,17096,1,0,Real Salt Lake,2019
+17,Regular Season,2019-03-09,San Jose,1.2,1.8,Minnesota Utd,Avaya Stadium,16411,0,3,Minnesota Utd,2019
+18,Regular Season,2019-03-09,Seattle,1.9,0.7,Colorado Rapids,CenturyLink Field,37725,2,0,Seattle,2019
+19,Regular Season,2019-03-10,Sporting KC,1.9,1.7,Philadelphia,Children's Mercy Park,18738,2,0,Sporting KC,2019
+20,Regular Season,2019-03-10,NYCFC,0.7,0.9,D.C. United,Yankee Stadium,24361,0,0,,2019
+21,Regular Season,2019-03-10,Atlanta Utd,0.6,0.7,FC Cincinnati,Mercedes-Benz Stadium,70382,1,1,,2019
+22,Regular Season,2019-03-10,Los Angeles FC,3.5,0.6,Portland Timbers,Banc of California Stadium,22003,4,1,Los Angeles FC,2019
+23,Regular Season,2019-03-16,Chicago Fire,1.9,3.3,Seattle,SeatGeek Stadium,10032,2,4,Seattle,2019
+25,Regular Season,2019-03-16,Columbus Crew,0.8,0.6,FC Dallas,MAPFRE Stadium,9687,1,0,Columbus Crew,2019
+26,Regular Season,2019-03-16,Houston Dynamo,3.8,1.2,Vancouver,BBVA Compass Stadium,13549,3,2,Houston Dynamo,2019
+27,Regular Season,2019-03-16,NY Red Bulls,2.8,0.6,San Jose,Red Bull Arena,15621,4,1,NY Red Bulls,2019
+28,Regular Season,2019-03-16,Orlando City,1.8,2.7,Montreal Impact,Exploria Stadium,22352,1,3,Montreal Impact,2019
+29,Regular Season,2019-03-16,D.C. United,3.9,0.3,Real Salt Lake,Audi Field,17190,5,0,D.C. United,2019
+30,Regular Season,2019-03-16,LA Galaxy,2.9,1.4,Minnesota Utd,Dignity Health Sports Park,21177,3,2,LA Galaxy,2019
+31,Regular Season,2019-03-17,NYCFC,1.1,2.0,Los Angeles FC,Yankee Stadium,20339,2,2,,2019
+32,Regular Season,2019-03-17,FC Cincinnati,1.7,1.1,Portland Timbers,Nippert Stadium,32250,3,0,FC Cincinnati,2019
+33,Regular Season,2019-03-17,Atlanta Utd,1.2,1.5,Philadelphia,Mercedes-Benz Stadium,42651,1,1,,2019
+34,Regular Season,2019-03-17,Toronto FC,2.2,1.0,New England,BMO Field,23271,3,2,Toronto FC,2019
+35,Regular Season,2019-03-17,Colorado Rapids,1.6,1.0,Sporting KC,Dick's Sporting Goods Park,11037,1,1,,2019
+36,Regular Season,2019-03-23,FC Dallas,2.0,1.2,Colorado Rapids,Toyota Stadium,14514,2,1,FC Dallas,2019
+37,Regular Season,2019-03-23,Philadelphia,1.6,0.5,Columbus Crew,Subaru Park,15135,3,0,Philadelphia,2019
+38,Regular Season,2019-03-23,NY Red Bulls,0.6,0.9,Orlando City,Red Bull Arena,15108,0,1,Orlando City,2019
+39,Regular Season,2019-03-23,Los Angeles FC,1.0,0.8,Real Salt Lake,Banc of California Stadium,22023,2,1,Los Angeles FC,2019
+40,Regular Season,2019-03-24,New England,1.7,1.5,FC Cincinnati,Gillette Stadium,10605,0,2,FC Cincinnati,2019
+41,Regular Season,2019-03-29,Toronto FC,3.2,0.6,NYCFC,BMO Field,25447,4,0,Toronto FC,2019
+42,Regular Season,2019-03-30,Chicago Fire,1.8,0.3,NY Red Bulls,SeatGeek Stadium,12013,1,0,Chicago Fire,2019
+43,Regular Season,2019-03-30,New England,1.2,1.8,Minnesota Utd,Gillette Stadium,10657,2,1,New England,2019
+44,Regular Season,2019-03-30,Sporting KC,4.1,1.1,Montreal Impact,Children's Mercy Park,18632,7,1,Sporting KC,2019
+45,Regular Season,2019-03-30,San Jose,0.2,4.2,Los Angeles FC,Avaya Stadium,18000,0,5,Los Angeles FC,2019
+46,Regular Season,2019-03-30,Columbus Crew,2.0,1.0,Atlanta Utd,MAPFRE Stadium,10973,2,0,Columbus Crew,2019
+47,Regular Season,2019-03-30,FC Cincinnati,0.3,1.9,Philadelphia,Nippert Stadium,25867,0,2,Philadelphia,2019
+48,Regular Season,2019-03-30,Colorado Rapids,1.8,1.7,Houston Dynamo,Dick's Sporting Goods Park,11061,1,4,Houston Dynamo,2019
+49,Regular Season,2019-03-30,Real Salt Lake,0.4,1.4,FC Dallas,Rio Tinto Stadium,18220,2,4,FC Dallas,2019
+51,Regular Season,2019-03-30,Vancouver,1.1,1.2,Seattle,BC Place,24803,0,0,,2019
+52,Regular Season,2019-03-31,Orlando City,1.3,0.4,D.C. United,Exploria Stadium,22481,1,2,D.C. United,2019
+53,Regular Season,2019-03-31,LA Galaxy,2.4,1.5,Portland Timbers,Dignity Health Sports Park,23820,2,1,LA Galaxy,2019
+54,Regular Season,2019-04-05,Vancouver,1.6,1.4,LA Galaxy,BC Place,22120,0,2,LA Galaxy,2019
+55,Regular Season,2019-04-06,NYCFC,0.6,0.3,Montreal Impact,Yankee Stadium,19353,0,0,,2019
+56,Regular Season,2019-04-06,D.C. United,1.0,2.6,Los Angeles FC,Audi Field,20600,0,4,Los Angeles FC,2019
+57,Regular Season,2019-04-06,Toronto FC,1.4,1.0,Chicago Fire,BMO Field,26256,2,2,,2019
+58,Regular Season,2019-04-06,NY Red Bulls,0.7,1.0,Minnesota Utd,Red Bull Arena,15706,1,2,Minnesota Utd,2019
+59,Regular Season,2019-04-06,Philadelphia,2.2,0.3,FC Dallas,Subaru Park,15844,2,1,Philadelphia,2019
+60,Regular Season,2019-04-06,Orlando City,2.7,1.4,Colorado Rapids,Exploria Stadium,22450,4,3,Orlando City,2019
+61,Regular Season,2019-04-06,Columbus Crew,0.6,0.8,New England,MAPFRE Stadium,10942,1,0,Columbus Crew,2019
+62,Regular Season,2019-04-06,San Jose,3.4,1.2,Portland Timbers,Avaya Stadium,16233,3,0,San Jose,2019
+63,Regular Season,2019-04-06,Seattle,1.0,0.7,Real Salt Lake,CenturyLink Field,37722,1,0,Seattle,2019
+64,Regular Season,2019-04-07,FC Cincinnati,1.9,2.7,Sporting KC,Nippert Stadium,26023,1,1,,2019
+65,Regular Season,2019-04-09,D.C. United,0.2,0.4,Montreal Impact,Audi Field,18116,0,0,,2019
+66,Regular Season,2019-04-12,Chicago Fire,1.8,0.4,Vancouver,SeatGeek Stadium,10439,1,1,,2019
+67,Regular Season,2019-04-13,Montreal Impact,0.7,1.2,Columbus Crew,Saputo Stadium,18634,1,0,Montreal Impact,2019
+68,Regular Season,2019-04-13,Houston Dynamo,2.9,0.7,San Jose,BBVA Compass Stadium,14476,2,1,Houston Dynamo,2019
+69,Regular Season,2019-04-13,Seattle,1.6,0.6,Toronto FC,CenturyLink Field,37722,3,2,Seattle,2019
+70,Regular Season,2019-04-13,Minnesota Utd,1.6,1.0,NYCFC,Allianz Field,19796,3,3,,2019
+71,Regular Season,2019-04-13,New England,0.3,2.8,Atlanta Utd,Gillette Stadium,15016,0,2,Atlanta Utd,2019
+72,Regular Season,2019-04-13,FC Dallas,2.1,1.3,Portland Timbers,Toyota Stadium,14376,2,1,FC Dallas,2019
+73,Regular Season,2019-04-13,Colorado Rapids,1.4,0.9,D.C. United,Dick's Sporting Goods Park,15094,2,3,D.C. United,2019
+74,Regular Season,2019-04-13,Real Salt Lake,0.8,0.7,Orlando City,Rio Tinto Stadium,16770,2,1,Real Salt Lake,2019
+75,Regular Season,2019-04-13,LA Galaxy,1.2,0.6,Philadelphia,Banc of California Stadium,24053,2,0,LA Galaxy,2019
+77,Regular Season,2019-04-13,Los Angeles FC,1.7,1.0,FC Cincinnati,Dignity Health Sports Park,22323,2,0,Los Angeles FC,2019
+78,Regular Season,2019-04-14,Sporting KC,2.5,1.2,NY Red Bulls,Children's Mercy Park,17897,2,2,,2019
+79,Regular Season,2019-04-17,Vancouver,0.9,0.9,Los Angeles FC,BC Place,17038,1,0,Vancouver,2019
+80,Regular Season,2019-04-19,FC Cincinnati,0.8,2.1,Real Salt Lake,Nippert Stadium,26416,0,3,Real Salt Lake,2019
+81,Regular Season,2019-04-19,Toronto FC,2.6,2.8,Minnesota Utd,BMO Field,22651,4,3,Toronto FC,2019
+82,Regular Season,2019-04-19,LA Galaxy,2.0,1.8,Houston Dynamo,Dignity Health Sports Park,21503,2,1,LA Galaxy,2019
+83,Regular Season,2019-04-20,Chicago Fire,2.7,0.6,Colorado Rapids,SeatGeek Stadium,12967,4,1,Chicago Fire,2019
+84,Regular Season,2019-04-20,Philadelphia,1.2,0.4,Montreal Impact,Subaru Park,15407,3,0,Philadelphia,2019
+85,Regular Season,2019-04-20,Orlando City,1.2,0.7,Vancouver,Exploria Stadium,22468,1,0,Orlando City,2019
+86,Regular Season,2019-04-20,Atlanta Utd,2.5,1.1,FC Dallas,Mercedes-Benz Stadium,43351,1,2,FC Dallas,2019
+87,Regular Season,2019-04-20,New England,1.1,0.8,NY Red Bulls,Gillette Stadium,14514,1,0,New England,2019
+88,Regular Season,2019-04-20,Columbus Crew,1.2,1.5,Portland Timbers,MAPFRE Stadium,11707,1,3,Portland Timbers,2019
+89,Regular Season,2019-04-20,San Jose,1.6,3.0,Sporting KC,Avaya Stadium,15777,4,1,San Jose,2019
+90,Regular Season,2019-04-21,D.C. United,0.9,1.8,NYCFC,Audi Field,18004,0,2,NYCFC,2019
+91,Regular Season,2019-04-21,Los Angeles FC,2.5,0.4,Seattle,Banc of California Stadium,22221,4,1,Los Angeles FC,2019
+92,Regular Season,2019-04-24,NYCFC,,,Chicago Fire,Yankee Stadium,21791,1,0,NYCFC,2019
+93,Regular Season,2019-04-24,Columbus Crew,1.0,0.8,D.C. United,MAPFRE Stadium,10169,0,1,D.C. United,2019
+94,Regular Season,2019-04-24,New England,0.5,2.1,Montreal Impact,Gillette Stadium,9422,0,3,Montreal Impact,2019
+95,Regular Season,2019-04-24,Minnesota Utd,0.8,0.3,LA Galaxy,Allianz Field,19779,0,0,,2019
+96,Regular Season,2019-04-24,Seattle,1.5,1.6,San Jose,CenturyLink Field,37722,2,2,,2019
+97,Regular Season,2019-04-27,NYCFC,1.5,0.6,Orlando City,Yankee Stadium,20862,1,1,,2019
+98,Regular Season,2019-04-27,Toronto FC,0.9,1.3,Portland Timbers,BMO Field,24832,1,2,Portland Timbers,2019
+99,Regular Season,2019-04-27,FC Dallas,0.3,0.9,San Jose,Toyota Stadium,14087,0,0,,2019
+100,Regular Season,2019-04-27,Vancouver,0.7,0.8,Philadelphia,BC Place,17835,1,1,,2019
+101,Regular Season,2019-04-27,Atlanta Utd,0.9,0.4,Colorado Rapids,Mercedes-Benz Stadium,43005,1,0,Atlanta Utd,2019
+103,Regular Season,2019-04-27,NY Red Bulls,0.9,0.7,FC Cincinnati,Red Bull Arena,16848,1,0,NY Red Bulls,2019
+104,Regular Season,2019-04-27,Houston Dynamo,1.7,0.9,Columbus Crew,BBVA Compass Stadium,15557,2,0,Houston Dynamo,2019
+105,Regular Season,2019-04-27,Sporting KC,3.2,2.4,New England,Children's Mercy Park,18511,4,4,,2019
+106,Regular Season,2019-04-28,Montreal Impact,0.8,0.8,Chicago Fire,Saputo Stadium,15758,1,0,Montreal Impact,2019
+107,Regular Season,2019-04-28,Minnesota Utd,0.8,0.5,D.C. United,Allianz Field,19620,1,0,Minnesota Utd,2019
+108,Regular Season,2019-04-28,Seattle,0.6,3.9,Los Angeles FC,CenturyLink Field,38581,1,1,,2019
+109,Regular Season,2019-04-28,LA Galaxy,1.9,1.4,Real Salt Lake,Dignity Health Sports Park,20615,2,1,LA Galaxy,2019
+110,Regular Season,2019-05-01,Philadelphia,2.0,1.0,FC Cincinnati,Subaru Park,12890,2,0,Philadelphia,2019
+111,Regular Season,2019-05-03,Colorado Rapids,2.1,1.6,Vancouver,Dick's Sporting Goods Park,10794,2,3,Vancouver,2019
+112,Regular Season,2019-05-04,NY Red Bulls,2.1,2.6,LA Galaxy,Red Bull Arena,20128,3,2,NY Red Bulls,2019
+113,Regular Season,2019-05-04,Houston Dynamo,1.6,1.7,FC Dallas,BBVA Compass Stadium,16521,2,1,Houston Dynamo,2019
+114,Regular Season,2019-05-04,Orlando City,1.1,1.2,Toronto FC,Exploria Stadium,22377,0,2,Toronto FC,2019
+115,Regular Season,2019-05-04,Montreal Impact,0.6,2.0,NYCFC,Saputo Stadium,16961,0,2,NYCFC,2019
+116,Regular Season,2019-05-04,Philadelphia,3.2,2.2,New England,Subaru Park,15565,6,1,Philadelphia,2019
+117,Regular Season,2019-05-04,Minnesota Utd,0.8,0.8,Seattle,Allianz Field,19832,1,1,,2019
+118,Regular Season,2019-05-04,D.C. United,1.5,0.5,Columbus Crew,Audi Field,16687,3,1,D.C. United,2019
+119,Regular Season,2019-05-04,Real Salt Lake,1.4,0.3,Portland Timbers,Rio Tinto Stadium,18066,1,2,Portland Timbers,2019
+120,Regular Season,2019-05-04,San Jose,0.7,0.7,FC Cincinnati,Avaya Stadium,16743,1,0,San Jose,2019
+121,Regular Season,2019-05-04,Los Angeles FC,2.0,1.1,Chicago Fire,Banc of California Stadium,22154,0,0,,2019
+122,Regular Season,2019-05-05,Sporting KC,0.5,1.7,Atlanta Utd,Children's Mercy Park,18518,0,3,Atlanta Utd,2019
+123,Regular Season,2019-05-08,Atlanta Utd,1.3,0.7,Toronto FC,Mercedes-Benz Stadium,42537,2,0,Atlanta Utd,2019
+124,Regular Season,2019-05-08,Columbus Crew,1.5,1.3,LA Galaxy,MAPFRE Stadium,13207,3,1,Columbus Crew,2019
+125,Regular Season,2019-05-08,Chicago Fire,3.0,0.4,New England,SeatGeek Stadium,6074,5,0,Chicago Fire,2019
+126,Regular Season,2019-05-08,NY Red Bulls,0.7,1.3,Montreal Impact,Red Bull Arena,11115,1,2,Montreal Impact,2019
+127,Regular Season,2019-05-10,Vancouver,1.5,1.8,Portland Timbers,BC Place,18356,1,0,Vancouver,2019
+129,Regular Season,2019-05-11,FC Cincinnati,0.7,1.2,Montreal Impact,Nippert Stadium,26258,2,1,FC Cincinnati,2019
+130,Regular Season,2019-05-11,FC Dallas,1.1,1.0,NY Red Bulls,Toyota Stadium,12263,1,3,NY Red Bulls,2019
+131,Regular Season,2019-05-11,Toronto FC,0.9,1.0,Philadelphia,BMO Field,26219,1,2,Philadelphia,2019
+132,Regular Season,2019-05-11,LA Galaxy,1.4,1.6,NYCFC,Dignity Health Sports Park,22806,0,2,NYCFC,2019
+133,Regular Season,2019-05-11,Columbus Crew,0.5,2.1,Los Angeles FC,MAPFRE Stadium,18048,0,3,Los Angeles FC,2019
+134,Regular Season,2019-05-11,New England,1.4,1.0,San Jose,Gillette Stadium,20610,3,1,New England,2019
+135,Regular Season,2019-05-11,Chicago Fire,2.4,0.3,Minnesota Utd,SeatGeek Stadium,11531,2,0,Chicago Fire,2019
+136,Regular Season,2019-05-11,Colorado Rapids,2.4,2.4,Real Salt Lake,Dick's Sporting Goods Park,15437,2,3,Real Salt Lake,2019
+137,Regular Season,2019-05-11,Seattle,0.7,1.3,Houston Dynamo,CenturyLink Field,39232,1,0,Seattle,2019
+138,Regular Season,2019-05-12,Atlanta Utd,1.5,1.6,Orlando City,Mercedes-Benz Stadium,68152,1,0,Atlanta Utd,2019
+139,Regular Season,2019-05-12,D.C. United,0.6,0.8,Sporting KC,Audi Field,12521,1,0,D.C. United,2019
+140,Regular Season,2019-05-15,Toronto FC,1.9,0.1,D.C. United,BMO Field,26116,0,0,,2019
+141,Regular Season,2019-05-15,Houston Dynamo,1.4,1.5,Portland Timbers,BBVA Compass Stadium,13327,1,1,,2019
+142,Regular Season,2019-05-15,Vancouver,0.3,1.8,Atlanta Utd,BC Place,16138,0,1,Atlanta Utd,2019
+143,Regular Season,2019-05-15,Seattle,1.7,0.4,Orlando City,CenturyLink Field,37722,2,1,Seattle,2019
+144,Regular Season,2019-05-16,Los Angeles FC,2.7,0.4,FC Dallas,Banc of California Stadium,22001,2,0,Los Angeles FC,2019
+145,Regular Season,2019-05-18,Montreal Impact,0.8,0.4,New England,Saputo Stadium,15559,0,0,,2019
+146,Regular Season,2019-05-18,Real Salt Lake,1.5,0.8,Toronto FC,Rio Tinto Stadium,15949,3,0,Real Salt Lake,2019
+147,Regular Season,2019-05-18,San Jose,3.1,1.5,Chicago Fire,Avaya Stadium,15232,4,1,San Jose,2019
+148,Regular Season,2019-05-18,Philadelphia,1.2,0.2,Seattle,Subaru Park,18540,0,0,,2019
+149,Regular Season,2019-05-18,Minnesota Utd,1.3,0.1,Columbus Crew,Allianz Field,19600,1,0,Minnesota Utd,2019
+150,Regular Season,2019-05-18,Houston Dynamo,1.9,1.1,D.C. United,BBVA Compass Stadium,15811,2,1,Houston Dynamo,2019
+151,Regular Season,2019-05-18,Sporting KC,1.3,0.8,Vancouver,Children's Mercy Park,18691,1,1,,2019
+152,Regular Season,2019-05-19,Orlando City,2.0,0.4,FC Cincinnati,Exploria Stadium,22341,5,1,Orlando City,2019
+153,Regular Season,2019-05-19,NY Red Bulls,0.9,0.8,Atlanta Utd,Red Bull Arena,18495,1,0,NY Red Bulls,2019
+155,Regular Season,2019-05-19,FC Dallas,0.7,2.6,Los Angeles FC,Toyota Stadium,15135,1,1,,2019
+156,Regular Season,2019-05-19,LA Galaxy,1.8,2.9,Colorado Rapids,Dignity Health Sports Park,19015,0,1,Colorado Rapids,2019
+157,Regular Season,2019-05-22,NY Red Bulls,1.4,2.2,Vancouver,Red Bull Arena,13035,2,2,,2019
+158,Regular Season,2019-05-24,Orlando City,2.7,0.8,LA Galaxy,Exploria Stadium,24712,0,1,LA Galaxy,2019
+159,Regular Season,2019-05-24,Real Salt Lake,1.1,1.0,Atlanta Utd,Rio Tinto Stadium,17214,2,1,Real Salt Lake,2019
+160,Regular Season,2019-05-24,Los Angeles FC,3.5,1.3,Montreal Impact,Banc of California Stadium,22444,4,2,Los Angeles FC,2019
+161,Regular Season,2019-05-25,Chicago Fire,1.7,1.1,NYCFC,SeatGeek Stadium,10986,1,1,,2019
+162,Regular Season,2019-05-25,Vancouver,0.6,1.4,FC Dallas,BC Place,18309,2,1,Vancouver,2019
+163,Regular Season,2019-05-25,New England,0.9,2.3,D.C. United,Gillette Stadium,20131,1,1,,2019
+164,Regular Season,2019-05-25,FC Cincinnati,1.5,1.4,NY Red Bulls,Nippert Stadium,28290,0,2,NY Red Bulls,2019
+165,Regular Season,2019-05-25,Philadelphia,1.9,1.8,Portland Timbers,Subaru Park,18474,1,3,Portland Timbers,2019
+166,Regular Season,2019-05-25,Minnesota Utd,1.4,1.0,Houston Dynamo,Allianz Field,19701,1,0,Minnesota Utd,2019
+167,Regular Season,2019-05-25,Colorado Rapids,1.0,1.5,Columbus Crew,Dick's Sporting Goods Park,16843,3,2,Colorado Rapids,2019
+168,Regular Season,2019-05-26,Sporting KC,1.8,1.1,Seattle,Children's Mercy Park,19882,3,2,Sporting KC,2019
+169,Regular Season,2019-05-26,Toronto FC,0.8,1.4,San Jose,BMO Field,23524,1,2,San Jose,2019
+170,Regular Season,2019-05-29,Atlanta Utd,1.7,0.7,Minnesota Utd,Mercedes-Benz Stadium,42703,3,0,Atlanta Utd,2019
+171,Regular Season,2019-05-29,Montreal Impact,1.6,0.8,Real Salt Lake,Saputo Stadium,11966,2,1,Montreal Impact,2019
+172,Regular Season,2019-05-29,D.C. United,1.7,3.0,Chicago Fire,Audi Field,14201,3,3,,2019
+173,Regular Season,2019-05-29,Sporting KC,1.1,0.8,LA Galaxy,Children's Mercy Park,19979,0,2,LA Galaxy,2019
+174,Regular Season,2019-05-29,Philadelphia,2.2,1.1,Colorado Rapids,Subaru Park,14207,1,1,,2019
+175,Regular Season,2019-05-31,Vancouver,0.9,0.4,Toronto FC,BC Place,21083,1,1,,2019
+176,Regular Season,2019-06-01,Montreal Impact,0.9,2.3,Orlando City,Saputo Stadium,17018,0,3,Orlando City,2019
+177,Regular Season,2019-06-01,Atlanta Utd,1.6,0.9,Chicago Fire,Mercedes-Benz Stadium,67502,2,0,Atlanta Utd,2019
+178,Regular Season,2019-06-01,NY Red Bulls,1.9,0.6,Real Salt Lake,Red Bull Arena,19122,4,0,NY Red Bulls,2019
+179,Regular Season,2019-06-01,Columbus Crew,1.6,1.2,NYCFC,MAPFRE Stadium,13704,2,2,,2019
+181,Regular Season,2019-06-01,FC Dallas,0.7,0.1,Seattle,Toyota Stadium,14327,2,1,FC Dallas,2019
+182,Regular Season,2019-06-01,D.C. United,0.7,1.3,San Jose,Audi Field,18002,1,1,,2019
+183,Regular Season,2019-06-01,Colorado Rapids,2.3,1.2,FC Cincinnati,Dick's Sporting Goods Park,16998,3,1,Colorado Rapids,2019
+184,Regular Season,2019-06-01,Houston Dynamo,1.5,0.3,Sporting KC,BBVA Compass Stadium,15710,1,1,,2019
+185,Regular Season,2019-06-01,Portland Timbers,1.9,2.0,Los Angeles FC,Providence Park,25218,2,3,Los Angeles FC,2019
+186,Regular Season,2019-06-02,Minnesota Utd,2.5,2.0,Philadelphia,Allianz Field,19738,2,3,Philadelphia,2019
+187,Regular Season,2019-06-02,LA Galaxy,1.0,2.0,New England,Dignity Health Sports Park,20828,1,2,New England,2019
+188,Regular Season,2019-06-05,Montreal Impact,1.6,0.8,Seattle,Saputo Stadium,13037,2,1,Montreal Impact,2019
+189,Regular Season,2019-06-06,NYCFC,2.6,1.3,FC Cincinnati,Yankee Stadium,18597,5,2,NYCFC,2019
+190,Regular Season,2019-06-07,Toronto FC,2.2,1.8,Sporting KC,BMO Field,24748,2,2,,2019
+191,Regular Season,2019-06-08,San Jose,0.9,0.5,FC Dallas,Avaya Stadium,16841,2,2,,2019
+192,Regular Season,2019-06-08,Philadelphia,2.4,0.8,NY Red Bulls,Subaru Park,18767,3,2,Philadelphia,2019
+193,Regular Season,2019-06-08,Colorado Rapids,0.5,0.8,Minnesota Utd,Dick's Sporting Goods Park,14160,1,0,Colorado Rapids,2019
+194,Regular Season,2019-06-22,FC Cincinnati,0.6,1.8,LA Galaxy,Nippert Stadium,32250,0,2,LA Galaxy,2019
+195,Regular Season,2019-06-22,Chicago Fire,0.3,1.1,Real Salt Lake,SeatGeek Stadium,15609,1,1,,2019
+196,Regular Season,2019-06-22,FC Dallas,2.9,0.5,Toronto FC,Toyota Stadium,13623,3,0,FC Dallas,2019
+197,Regular Season,2019-06-22,Vancouver,2.2,2.3,Colorado Rapids,BC Place,19893,2,2,,2019
+198,Regular Season,2019-06-22,Portland Timbers,2.6,0.5,Houston Dynamo,Providence Park,25218,4,0,Portland Timbers,2019
+199,Regular Season,2019-06-23,Columbus Crew,0.6,1.5,Sporting KC,MAPFRE Stadium,14015,0,1,Sporting KC,2019
+200,Regular Season,2019-06-26,New England,0.9,1.8,Philadelphia,Gillette Stadium,11571,1,1,,2019
+201,Regular Season,2019-06-26,Montreal Impact,1.0,1.5,Portland Timbers,Saputo Stadium,15167,2,1,Montreal Impact,2019
+202,Regular Season,2019-06-26,Toronto FC,2.1,2.5,Atlanta Utd,BMO Field,24598,3,2,Toronto FC,2019
+203,Regular Season,2019-06-26,D.C. United,0.7,1.4,Orlando City,Audi Field,17398,1,0,D.C. United,2019
+204,Regular Season,2019-06-26,FC Dallas,2.7,0.4,Vancouver,Toyota Stadium,11911,2,2,,2019
+205,Regular Season,2019-06-26,San Jose,2.2,0.5,Houston Dynamo,Avaya Stadium,15563,2,0,San Jose,2019
+207,Regular Season,2019-06-28,NY Red Bulls,2.5,2.4,Chicago Fire,Red Bull Arena,17563,3,1,NY Red Bulls,2019
+208,Regular Season,2019-06-28,Colorado Rapids,0.7,0.8,Los Angeles FC,Dick's Sporting Goods Park,15968,1,0,Colorado Rapids,2019
+209,Regular Season,2019-06-29,Minnesota Utd,3.4,0.4,FC Cincinnati,Allianz Field,19778,7,1,Minnesota Utd,2019
+210,Regular Season,2019-06-29,Atlanta Utd,1.4,0.9,Montreal Impact,Mercedes-Benz Stadium,44627,2,1,Atlanta Utd,2019
+211,Regular Season,2019-06-29,NYCFC,2.7,1.1,Philadelphia,Yankee Stadium,24451,4,2,NYCFC,2019
+212,Regular Season,2019-06-29,Columbus Crew,0.2,0.3,Orlando City,MAPFRE Stadium,17715,0,2,Orlando City,2019
+213,Regular Season,2019-06-29,New England,2.2,0.8,Houston Dynamo,Gillette Stadium,17372,2,1,New England,2019
+214,Regular Season,2019-06-29,D.C. United,1.7,1.1,Toronto FC,Audi Field,18854,1,1,,2019
+215,Regular Season,2019-06-29,Seattle,1.5,0.6,Vancouver,CenturyLink Field,44489,1,0,Seattle,2019
+216,Regular Season,2019-06-29,San Jose,1.1,0.8,LA Galaxy,Stanford Stadium,50850,3,0,San Jose,2019
+217,Regular Season,2019-06-29,Real Salt Lake,1.5,0.6,Sporting KC,Rio Tinto Stadium,18933,2,0,Real Salt Lake,2019
+218,Regular Season,2019-06-30,Portland Timbers,1.1,1.4,FC Dallas,Providence Park,25218,1,0,Portland Timbers,2019
+219,Regular Season,2019-07-03,NYCFC,2.2,0.6,Seattle,Yankee Stadium,18217,3,0,NYCFC,2019
+220,Regular Season,2019-07-03,Orlando City,0.9,2.3,Philadelphia,Exploria Stadium,22364,1,3,Philadelphia,2019
+221,Regular Season,2019-07-03,Minnesota Utd,1.7,2.0,San Jose,Allianz Field,19653,3,1,Minnesota Utd,2019
+222,Regular Season,2019-07-03,Chicago Fire,3.4,0.9,Atlanta Utd,SeatGeek Stadium,13476,5,1,Chicago Fire,2019
+223,Regular Season,2019-07-03,Sporting KC,3.2,2.5,Los Angeles FC,Children's Mercy Park,19754,1,5,Los Angeles FC,2019
+224,Regular Season,2019-07-03,Houston Dynamo,2.1,0.6,NY Red Bulls,BBVA Compass Stadium,19531,4,0,Houston Dynamo,2019
+225,Regular Season,2019-07-03,Real Salt Lake,0.9,0.7,Columbus Crew,Rio Tinto Stadium,19030,1,0,Real Salt Lake,2019
+226,Regular Season,2019-07-04,Colorado Rapids,1.5,1.1,New England,Dick's Sporting Goods Park,15584,1,2,New England,2019
+227,Regular Season,2019-07-04,FC Dallas,2.6,0.5,D.C. United,Toyota Stadium,19096,2,0,FC Dallas,2019
+228,Regular Season,2019-07-04,LA Galaxy,1.2,1.1,Toronto FC,Dignity Health Sports Park,25482,2,0,LA Galaxy,2019
+229,Regular Season,2019-07-06,Montreal Impact,0.8,1.5,Minnesota Utd,Saputo Stadium,16796,2,3,Minnesota Utd,2019
+230,Regular Season,2019-07-06,FC Cincinnati,1.4,1.9,Houston Dynamo,Nippert Stadium,26276,3,2,FC Cincinnati,2019
+231,Regular Season,2019-07-06,Columbus Crew,1.7,1.8,Seattle,MAPFRE Stadium,14183,1,2,Seattle,2019
+233,Regular Season,2019-07-06,Sporting KC,2.6,0.3,Chicago Fire,Children's Mercy Park,18570,1,0,Sporting KC,2019
+234,Regular Season,2019-07-06,San Jose,0.6,0.8,Real Salt Lake,Avaya Stadium,15339,1,0,San Jose,2019
+235,Regular Season,2019-07-06,Los Angeles FC,2.3,0.7,Vancouver,Banc of California Stadium,22472,6,1,Los Angeles FC,2019
+236,Regular Season,2019-07-07,Atlanta Utd,1.7,1.8,NY Red Bulls,Mercedes-Benz Stadium,68077,3,3,,2019
+237,Regular Season,2019-07-07,Philadelphia,1.5,1.0,Orlando City,Subaru Park,18574,2,2,,2019
+238,Regular Season,2019-07-07,NYCFC,1.2,0.8,Portland Timbers,Yankee Stadium,18363,0,1,Portland Timbers,2019
+239,Regular Season,2019-07-12,D.C. United,1.4,1.1,New England,Audi Field,18903,2,2,,2019
+240,Regular Season,2019-07-12,Houston Dynamo,2.2,1.5,Los Angeles FC,BBVA Compass Stadium,17219,1,3,Los Angeles FC,2019
+241,Regular Season,2019-07-12,LA Galaxy,0.5,2.1,San Jose,Dignity Health Sports Park,22508,1,3,San Jose,2019
+242,Regular Season,2019-07-13,Montreal Impact,1.3,1.5,Toronto FC,Saputo Stadium,19619,0,2,Toronto FC,2019
+243,Regular Season,2019-07-13,Orlando City,0.6,0.8,Columbus Crew,Exploria Stadium,22397,1,0,Orlando City,2019
+244,Regular Season,2019-07-13,Minnesota Utd,1.2,1.3,FC Dallas,Allianz Field,19906,1,0,Minnesota Utd,2019
+245,Regular Season,2019-07-13,Chicago Fire,3.0,1.0,FC Cincinnati,SeatGeek Stadium,13127,1,2,FC Cincinnati,2019
+246,Regular Season,2019-07-13,Vancouver,0.9,1.7,Sporting KC,BC Place,18700,0,3,Sporting KC,2019
+247,Regular Season,2019-07-13,Real Salt Lake,1.9,0.2,Philadelphia,Rio Tinto Stadium,18925,4,0,Real Salt Lake,2019
+248,Regular Season,2019-07-13,Portland Timbers,1.2,1.3,Colorado Rapids,Providence Park,25218,2,2,,2019
+249,Regular Season,2019-07-14,Seattle,2.5,0.6,Atlanta Utd,CenturyLink Field,38232,2,1,Seattle,2019
+250,Regular Season,2019-07-14,NY Red Bulls,1.3,0.9,NYCFC,Red Bull Arena,20128,2,1,NY Red Bulls,2019
+251,Regular Season,2019-07-17,Atlanta Utd,3.6,0.3,Houston Dynamo,Mercedes-Benz Stadium,42557,5,0,Atlanta Utd,2019
+252,Regular Season,2019-07-17,New England,2.7,0.7,Vancouver,Gillette Stadium,10575,4,0,New England,2019
+253,Regular Season,2019-07-17,Chicago Fire,1.2,0.8,Columbus Crew,SeatGeek Stadium,7482,2,2,,2019
+254,Regular Season,2019-07-17,Toronto FC,1.7,2.0,NY Red Bulls,BMO Field,24462,3,1,Toronto FC,2019
+255,Regular Season,2019-07-18,FC Cincinnati,1.2,1.0,D.C. United,Nippert Stadium,28774,1,4,D.C. United,2019
+256,Regular Season,2019-07-18,Portland Timbers,1.5,0.3,Orlando City,Providence Park,25218,1,1,,2019
+257,Regular Season,2019-07-19,LA Galaxy,0.7,1.7,Los Angeles FC,Dignity Health Sports Park,27088,3,2,LA Galaxy,2019
+259,Regular Season,2019-07-20,Columbus Crew,2.1,1.3,Montreal Impact,MAPFRE Stadium,15124,2,1,Columbus Crew,2019
+260,Regular Season,2019-07-20,Toronto FC,1.4,1.4,Houston Dynamo,BMO Field,25949,1,3,Houston Dynamo,2019
+261,Regular Season,2019-07-20,Philadelphia,1.1,0.6,Chicago Fire,Subaru Park,17471,2,0,Philadelphia,2019
+262,Regular Season,2019-07-20,Sporting KC,1.4,2.2,FC Dallas,Children's Mercy Park,18736,0,2,FC Dallas,2019
+263,Regular Season,2019-07-20,Colorado Rapids,0.2,2.3,NYCFC,Dick's Sporting Goods Park,15359,1,2,NYCFC,2019
+264,Regular Season,2019-07-20,Vancouver,0.3,2.5,San Jose,BC Place,17558,1,3,San Jose,2019
+265,Regular Season,2019-07-20,Real Salt Lake,0.7,0.9,Minnesota Utd,Rio Tinto Stadium,16992,1,1,,2019
+266,Regular Season,2019-07-21,Atlanta Utd,2.4,0.6,D.C. United,Mercedes-Benz Stadium,44405,2,0,Atlanta Utd,2019
+267,Regular Season,2019-07-21,FC Cincinnati,0.8,1.9,New England,Nippert Stadium,25095,0,2,New England,2019
+268,Regular Season,2019-07-21,Orlando City,1.2,1.2,NY Red Bulls,Exploria Stadium,22408,0,1,NY Red Bulls,2019
+269,Regular Season,2019-07-21,Seattle,3.5,2.1,Portland Timbers,CenturyLink Field,50072,1,2,Portland Timbers,2019
+270,Regular Season,2019-07-26,NYCFC,1.7,1.7,Sporting KC,Yankee Stadium,20178,3,1,NYCFC,2019
+271,Regular Season,2019-07-26,Los Angeles FC,2.1,1.2,Atlanta Utd,Banc of California Stadium,22511,4,3,Los Angeles FC,2019
+272,Regular Season,2019-07-27,New England,1.9,1.0,Orlando City,Gillette Stadium,19043,4,1,New England,2019
+273,Regular Season,2019-07-27,NY Red Bulls,2.0,2.0,Columbus Crew,Red Bull Arena,16126,2,3,Columbus Crew,2019
+274,Regular Season,2019-07-27,Minnesota Utd,2.1,0.2,Vancouver,Allianz Field,19845,0,0,,2019
+275,Regular Season,2019-07-27,FC Dallas,0.8,0.9,Real Salt Lake,Toyota Stadium,14717,0,0,,2019
+276,Regular Season,2019-07-27,Houston Dynamo,0.8,0.8,Seattle,BBVA Compass Stadium,15138,0,1,Seattle,2019
+277,Regular Season,2019-07-27,Chicago Fire,2.1,0.5,D.C. United,SeatGeek Stadium,18232,0,0,,2019
+278,Regular Season,2019-07-27,Montreal Impact,1.4,0.6,Philadelphia,Saputo Stadium,16344,4,0,Montreal Impact,2019
+279,Regular Season,2019-07-27,Toronto FC,0.4,0.5,FC Cincinnati,BMO Field,25765,2,1,Toronto FC,2019
+280,Regular Season,2019-07-27,San Jose,1.5,1.0,Colorado Rapids,Avaya Stadium,17762,3,1,San Jose,2019
+281,Regular Season,2019-07-27,Portland Timbers,2.0,2.4,LA Galaxy,Providence Park,25218,4,0,Portland Timbers,2019
+282,Regular Season,2019-08-03,Atlanta Utd,2.7,0.8,LA Galaxy,Mercedes-Benz Stadium,72548,3,0,Atlanta Utd,2019
+283,Regular Season,2019-08-03,NY Red Bulls,3.3,0.9,Toronto FC,Red Bull Arena,20128,2,0,NY Red Bulls,2019
+285,Regular Season,2019-08-03,Orlando City,1.5,0.3,FC Dallas,Exploria Stadium,22479,2,0,Orlando City,2019
+286,Regular Season,2019-08-03,New England,0.5,2.3,Los Angeles FC,Gillette Stadium,25515,0,2,Los Angeles FC,2019
+287,Regular Season,2019-08-03,FC Cincinnati,1.0,1.0,Vancouver,Nippert Stadium,27106,1,2,Vancouver,2019
+288,Regular Season,2019-08-03,Colorado Rapids,2.8,1.5,Montreal Impact,Dick's Sporting Goods Park,14007,6,3,Colorado Rapids,2019
+289,Regular Season,2019-08-03,Houston Dynamo,0.5,1.5,Chicago Fire,BBVA Compass Stadium,14250,0,1,Chicago Fire,2019
+290,Regular Season,2019-08-03,San Jose,2.2,0.9,Columbus Crew,Avaya Stadium,17088,1,1,,2019
+291,Regular Season,2019-08-03,Real Salt Lake,1.7,0.6,NYCFC,Rio Tinto Stadium,18282,3,1,Real Salt Lake,2019
+292,Regular Season,2019-08-04,Minnesota Utd,2.4,0.7,Portland Timbers,Allianz Field,19726,1,0,Minnesota Utd,2019
+293,Regular Season,2019-08-04,D.C. United,1.8,3.3,Philadelphia,Audi Field,18697,1,5,Philadelphia,2019
+294,Regular Season,2019-08-04,Seattle,1.8,1.3,Sporting KC,CenturyLink Field,37722,2,3,Sporting KC,2019
+295,Regular Season,2019-08-08,NYCFC,3.2,0.3,Houston Dynamo,Yankee Stadium,18113,3,2,NYCFC,2019
+296,Regular Season,2019-08-10,Seattle,2.0,1.9,New England,CenturyLink Field,38826,3,3,,2019
+297,Regular Season,2019-08-10,Toronto FC,1.1,0.7,Orlando City,BMO Field,24487,1,1,,2019
+298,Regular Season,2019-08-10,Columbus Crew,2.6,0.5,FC Cincinnati,MAPFRE Stadium,20865,2,2,,2019
+299,Regular Season,2019-08-10,FC Dallas,3.1,2.1,Minnesota Utd,Toyota Stadium,15168,5,3,FC Dallas,2019
+300,Regular Season,2019-08-10,Sporting KC,1.4,1.0,Real Salt Lake,Children's Mercy Park,18219,1,2,Real Salt Lake,2019
+301,Regular Season,2019-08-10,Colorado Rapids,0.9,1.6,San Jose,Dick's Sporting Goods Park,13870,2,1,Colorado Rapids,2019
+302,Regular Season,2019-08-10,Chicago Fire,1.2,1.7,Montreal Impact,SeatGeek Stadium,11002,3,2,Chicago Fire,2019
+303,Regular Season,2019-08-10,Portland Timbers,1.2,0.8,Vancouver,Providence Park,25218,3,1,Portland Timbers,2019
+304,Regular Season,2019-08-11,Atlanta Utd,3.2,1.0,NYCFC,Mercedes-Benz Stadium,44052,2,1,Atlanta Utd,2019
+305,Regular Season,2019-08-11,Philadelphia,1.6,0.8,Houston Dynamo,Subaru Park,18550,2,1,Philadelphia,2019
+306,Regular Season,2019-08-11,D.C. United,1.1,1.7,LA Galaxy,Audi Field,20006,2,1,D.C. United,2019
+307,Regular Season,2019-08-11,Los Angeles FC,3.0,1.5,NY Red Bulls,Banc of California Stadium,22342,4,2,Los Angeles FC,2019
+308,Regular Season,2019-08-14,Orlando City,1.2,1.1,Sporting KC,Exploria Stadium,22347,1,0,Orlando City,2019
+309,Regular Season,2019-08-14,Minnesota Utd,3.1,0.4,Colorado Rapids,Allianz Field,19629,1,0,Minnesota Utd,2019
+311,Regular Season,2019-08-14,Real Salt Lake,0.8,0.4,Seattle,Rio Tinto Stadium,17825,3,0,Real Salt Lake,2019
+312,Regular Season,2019-08-14,LA Galaxy,1.5,1.2,FC Dallas,Dignity Health Sports Park,19653,2,0,LA Galaxy,2019
+313,Regular Season,2019-08-14,Portland Timbers,2.2,0.4,Chicago Fire,Providence Park,25218,3,2,Portland Timbers,2019
+314,Regular Season,2019-08-17,NY Red Bulls,2.4,0.7,New England,Red Bull Arena,18177,1,1,,2019
+315,Regular Season,2019-08-17,Columbus Crew,1.8,0.6,Toronto FC,MAPFRE Stadium,17494,2,2,,2019
+316,Regular Season,2019-08-17,FC Cincinnati,1.5,2.0,NYCFC,Nippert Stadium,27273,1,4,NYCFC,2019
+317,Regular Season,2019-08-17,Montreal Impact,1.5,2.3,FC Dallas,Saputo Stadium,17509,3,3,,2019
+318,Regular Season,2019-08-17,Chicago Fire,1.6,1.6,Philadelphia,SeatGeek Stadium,14883,2,0,Chicago Fire,2019
+319,Regular Season,2019-08-17,Minnesota Utd,1.7,1.0,Orlando City,Allianz Field,19738,1,1,,2019
+320,Regular Season,2019-08-17,Sporting KC,1.4,1.7,San Jose,Children's Mercy Park,17941,2,1,Sporting KC,2019
+321,Regular Season,2019-08-17,Houston Dynamo,1.6,1.6,Colorado Rapids,BBVA Compass Stadium,15458,2,2,,2019
+322,Regular Season,2019-08-17,Vancouver,0.6,1.2,D.C. United,BC Place,22120,1,0,Vancouver,2019
+323,Regular Season,2019-08-17,LA Galaxy,1.9,2.7,Seattle,Dignity Health Sports Park,26213,2,2,,2019
+324,Regular Season,2019-08-17,Real Salt Lake,0.5,3.0,Los Angeles FC,Rio Tinto Stadium,18213,0,2,Los Angeles FC,2019
+325,Regular Season,2019-08-18,Portland Timbers,1.2,2.5,Atlanta Utd,Providence Park,25218,0,2,Atlanta Utd,2019
+326,Regular Season,2019-08-21,NYCFC,1.7,0.8,Columbus Crew,Yankee Stadium,19828,1,0,NYCFC,2019
+327,Regular Season,2019-08-21,D.C. United,1.2,2.7,NY Red Bulls,Audi Field,18302,1,2,NY Red Bulls,2019
+328,Regular Season,2019-08-21,Los Angeles FC,3.2,2.0,San Jose,Banc of California Stadium,22110,4,0,Los Angeles FC,2019
+329,Regular Season,2019-08-22,Sporting KC,1.2,0.7,Minnesota Utd,Children's Mercy Park,17083,1,0,Sporting KC,2019
+330,Regular Season,2019-08-23,Orlando City,1.8,1.7,Atlanta Utd,Exploria Stadium,23014,0,1,Atlanta Utd,2019
+331,Regular Season,2019-08-23,Portland Timbers,1.9,1.3,Seattle,Providence Park,25218,1,2,Seattle,2019
+332,Regular Season,2019-08-24,NYCFC,1.6,1.1,NY Red Bulls,Yankee Stadium,28895,2,1,NYCFC,2019
+333,Regular Season,2019-08-24,Toronto FC,1.5,0.5,Montreal Impact,BMO Field,28989,2,1,Toronto FC,2019
+334,Regular Season,2019-08-24,New England,1.7,0.6,Chicago Fire,Gillette Stadium,16236,2,1,New England,2019
+335,Regular Season,2019-08-24,Philadelphia,2.1,0.7,D.C. United,Subaru Park,18781,3,1,Philadelphia,2019
+337,Regular Season,2019-08-24,San Jose,4.3,0.7,Vancouver,Avaya Stadium,17458,3,1,San Jose,2019
+338,Regular Season,2019-08-24,Real Salt Lake,2.4,1.7,Colorado Rapids,Rio Tinto Stadium,20384,2,0,Real Salt Lake,2019
+339,Regular Season,2019-08-25,FC Cincinnati,1.4,1.3,Columbus Crew,Nippert Stadium,30611,1,3,Columbus Crew,2019
+340,Regular Season,2019-08-25,FC Dallas,2.7,1.6,Houston Dynamo,Toyota Stadium,15452,5,1,FC Dallas,2019
+341,Regular Season,2019-08-25,Los Angeles FC,4.4,1.7,LA Galaxy,Banc of California Stadium,22757,3,3,,2019
+342,Regular Season,2019-08-28,Montreal Impact,1.5,2.8,Vancouver,Saputo Stadium,14513,2,1,Montreal Impact,2019
+343,Regular Season,2019-08-31,NY Red Bulls,1.9,1.9,Colorado Rapids,Red Bull Arena,17089,0,2,Colorado Rapids,2019
+344,Regular Season,2019-08-31,Montreal Impact,1.2,1.4,D.C. United,Saputo Stadium,18285,0,3,D.C. United,2019
+345,Regular Season,2019-08-31,Columbus Crew,1.1,1.6,Chicago Fire,MAPFRE Stadium,16438,1,1,,2019
+346,Regular Season,2019-08-31,Philadelphia,1.1,2.2,Atlanta Utd,Subaru Park,18510,3,1,Philadelphia,2019
+347,Regular Season,2019-08-31,New England,1.3,1.7,Toronto FC,Gillette Stadium,16588,1,1,,2019
+348,Regular Season,2019-08-31,FC Dallas,2.5,1.0,FC Cincinnati,Toyota Stadium,15811,3,1,FC Dallas,2019
+349,Regular Season,2019-08-31,Sporting KC,1.6,1.0,Houston Dynamo,Children's Mercy Park,18917,1,0,Sporting KC,2019
+350,Regular Season,2019-08-31,Vancouver,0.9,1.5,NYCFC,BC Place,17512,1,3,NYCFC,2019
+351,Regular Season,2019-08-31,San Jose,2.4,0.4,Orlando City,Avaya Stadium,17323,3,0,San Jose,2019
+352,Regular Season,2019-08-31,Portland Timbers,0.7,1.1,Real Salt Lake,Providence Park,25218,1,0,Portland Timbers,2019
+353,Regular Season,2019-09-01,Seattle,2.4,2.0,LA Galaxy,CenturyLink Field,46673,4,3,Seattle,2019
+354,Regular Season,2019-09-01,Los Angeles FC,1.9,0.8,Minnesota Utd,Banc of California Stadium,22143,0,2,Minnesota Utd,2019
+355,Regular Season,2019-09-07,NYCFC,3.5,0.7,New England,Yankee Stadium,21236,2,1,NYCFC,2019
+356,Regular Season,2019-09-07,Orlando City,1.4,1.2,Los Angeles FC,Exploria Stadium,22371,2,2,,2019
+357,Regular Season,2019-09-07,FC Cincinnati,1.4,1.1,Toronto FC,Nippert Stadium,25339,1,5,Toronto FC,2019
+358,Regular Season,2019-09-07,Colorado Rapids,2.1,0.4,Seattle,Dick's Sporting Goods Park,16607,2,0,Colorado Rapids,2019
+359,Regular Season,2019-09-07,Portland Timbers,2.5,0.7,Sporting KC,Providence Park,25218,2,1,Portland Timbers,2019
+360,Regular Season,2019-09-11,NYCFC,0.6,3.2,Toronto FC,Yankee Stadium,19267,1,1,,2019
+361,Regular Season,2019-09-11,Houston Dynamo,1.0,0.7,Minnesota Utd,BBVA Compass Stadium,13566,2,0,Houston Dynamo,2019
+363,Regular Season,2019-09-11,Colorado Rapids,1.7,1.1,LA Galaxy,Dick's Sporting Goods Park,10945,2,1,Colorado Rapids,2019
+364,Regular Season,2019-09-11,Real Salt Lake,1.0,0.4,San Jose,Rio Tinto Stadium,17196,1,0,Real Salt Lake,2019
+365,Regular Season,2019-09-14,NYCFC,1.6,1.3,San Jose,Yankee Stadium,20679,2,1,NYCFC,2019
+366,Regular Season,2019-09-14,Chicago Fire,2.2,0.9,FC Dallas,SeatGeek Stadium,12874,4,0,Chicago Fire,2019
+367,Regular Season,2019-09-14,Atlanta Utd,1.4,1.0,Columbus Crew,Mercedes-Benz Stadium,68046,1,3,Columbus Crew,2019
+368,Regular Season,2019-09-14,Orlando City,1.6,1.3,New England,Exploria Stadium,22419,3,3,,2019
+369,Regular Season,2019-09-14,Montreal Impact,0.9,0.6,FC Cincinnati,Saputo Stadium,17159,0,1,FC Cincinnati,2019
+370,Regular Season,2019-09-14,Philadelphia,1.0,1.6,Los Angeles FC,Subaru Park,19145,1,1,,2019
+371,Regular Season,2019-09-14,Vancouver,1.2,1.7,Houston Dynamo,BC Place,17382,2,1,Vancouver,2019
+372,Regular Season,2019-09-15,Portland Timbers,0.9,0.8,D.C. United,Providence Park,25218,0,1,D.C. United,2019
+373,Regular Season,2019-09-15,Toronto FC,2.6,1.8,Colorado Rapids,BMO Field,24810,3,2,Toronto FC,2019
+374,Regular Season,2019-09-15,Minnesota Utd,2.2,0.9,Real Salt Lake,Allianz Field,19635,3,1,Minnesota Utd,2019
+375,Regular Season,2019-09-15,Seattle,1.9,0.5,NY Red Bulls,CenturyLink Field,37722,4,2,Seattle,2019
+376,Regular Season,2019-09-15,LA Galaxy,3.1,3.2,Sporting KC,Dignity Health Sports Park,22465,7,2,LA Galaxy,2019
+377,Regular Season,2019-09-18,FC Cincinnati,1.2,1.3,Atlanta Utd,Nippert Stadium,24774,0,2,Atlanta Utd,2019
+378,Regular Season,2019-09-18,Portland Timbers,1.6,2.7,NY Red Bulls,Providence Park,25218,0,2,NY Red Bulls,2019
+379,Regular Season,2019-09-18,Seattle,1.7,0.6,FC Dallas,CenturyLink Field,37722,0,0,,2019
+380,Regular Season,2019-09-21,Atlanta Utd,2.6,0.9,San Jose,Mercedes-Benz Stadium,43451,3,1,Atlanta Utd,2019
+381,Regular Season,2019-09-21,Vancouver,0.8,1.8,Columbus Crew,BC Place,16683,1,1,,2019
+382,Regular Season,2019-09-21,FC Cincinnati,0.8,1.1,Chicago Fire,Nippert Stadium,26466,0,0,,2019
+383,Regular Season,2019-09-21,New England,1.4,0.4,Real Salt Lake,Gillette Stadium,24270,0,0,,2019
+384,Regular Season,2019-09-21,Sporting KC,1.1,1.2,Colorado Rapids,Children's Mercy Park,18862,2,3,Colorado Rapids,2019
+385,Regular Season,2019-09-21,Houston Dynamo,1.9,0.6,Orlando City,BBVA Compass Stadium,15146,2,1,Houston Dynamo,2019
+386,Regular Season,2019-09-21,LA Galaxy,3.5,1.3,Montreal Impact,Dignity Health Sports Park,25482,2,1,LA Galaxy,2019
+387,Regular Season,2019-09-21,Los Angeles FC,2.3,0.6,Toronto FC,Banc of California Stadium,22022,1,1,,2019
+389,Regular Season,2019-09-22,Portland Timbers,3.0,1.3,Minnesota Utd,Providence Park,25218,0,0,,2019
+390,Regular Season,2019-09-22,FC Dallas,1.0,1.0,NYCFC,Toyota Stadium,14663,1,1,,2019
+391,Regular Season,2019-09-22,NY Red Bulls,1.7,0.9,Philadelphia,Red Bull Arena,19262,2,0,NY Red Bulls,2019
+392,Regular Season,2019-09-22,D.C. United,1.3,1.6,Seattle,Audi Field,18489,2,0,D.C. United,2019
+393,Regular Season,2019-09-25,NYCFC,2.7,1.3,Atlanta Utd,Yankee Stadium,24290,4,1,NYCFC,2019
+394,Regular Season,2019-09-25,Minnesota Utd,1.7,2.8,Sporting KC,Allianz Field,19609,2,1,Minnesota Utd,2019
+395,Regular Season,2019-09-25,Real Salt Lake,1.0,2.0,LA Galaxy,Rio Tinto Stadium,20838,1,2,LA Galaxy,2019
+396,Regular Season,2019-09-25,Los Angeles FC,2.3,0.7,Houston Dynamo,Banc of California Stadium,22103,3,1,Los Angeles FC,2019
+397,Regular Season,2019-09-25,Portland Timbers,1.8,2.4,New England,Providence Park,25218,2,2,,2019
+398,Regular Season,2019-09-25,San Jose,1.3,1.1,Philadelphia,Avaya Stadium,16652,1,2,Philadelphia,2019
+399,Regular Season,2019-09-29,Chicago Fire,1.8,1.5,Toronto FC,SeatGeek Stadium,17748,2,2,,2019
+400,Regular Season,2019-09-29,Columbus Crew,0.5,1.2,Philadelphia,MAPFRE Stadium,20353,2,0,Columbus Crew,2019
+401,Regular Season,2019-09-29,NY Red Bulls,0.8,0.4,D.C. United,Red Bull Arena,28118,0,0,,2019
+402,Regular Season,2019-09-29,New England,1.2,1.4,NYCFC,Gillette Stadium,28602,2,0,New England,2019
+403,Regular Season,2019-09-29,Montreal Impact,1.2,1.3,Atlanta Utd,Saputo Stadium,15557,1,1,,2019
+404,Regular Season,2019-09-29,FC Cincinnati,1.2,2.1,Orlando City,Nippert Stadium,25652,1,1,,2019
+405,Regular Season,2019-09-29,San Jose,1.9,1.2,Seattle,Avaya Stadium,18000,0,1,Seattle,2019
+406,Regular Season,2019-09-29,LA Galaxy,2.1,2.5,Vancouver,Dignity Health Sports Park,25903,3,4,Vancouver,2019
+407,Regular Season,2019-09-29,Colorado Rapids,3.0,0.8,FC Dallas,Dick's Sporting Goods Park,16352,3,0,Colorado Rapids,2019
+408,Regular Season,2019-09-29,Real Salt Lake,0.5,1.2,Houston Dynamo,Rio Tinto Stadium,18117,2,1,Real Salt Lake,2019
+409,Regular Season,2019-09-29,Minnesota Utd,2.2,1.8,Los Angeles FC,Allianz Field,19706,1,1,,2019
+410,Regular Season,2019-09-29,Sporting KC,1.7,1.6,Portland Timbers,Children's Mercy Park,17281,2,2,,2019
+411,Regular Season,2019-10-06,Seattle,1.4,1.0,Minnesota Utd,CenturyLink Field,47297,1,0,Seattle,2019
+412,Regular Season,2019-10-06,Vancouver,1.0,1.1,Real Salt Lake,BC Place,18378,0,1,Real Salt Lake,2019
+413,Regular Season,2019-10-06,Los Angeles FC,1.6,1.4,Colorado Rapids,Banc of California Stadium,22537,3,1,Los Angeles FC,2019
+415,Regular Season,2019-10-06,Portland Timbers,2.3,0.8,San Jose,Providence Park,25218,3,1,Portland Timbers,2019
+416,Regular Season,2019-10-06,FC Dallas,3.0,0.5,Sporting KC,Toyota Stadium,15623,6,0,FC Dallas,2019
+417,Regular Season,2019-10-06,Houston Dynamo,2.8,2.5,LA Galaxy,BBVA Compass Stadium,21777,4,2,Houston Dynamo,2019
+418,Regular Season,2019-10-06,Philadelphia,2.7,1.4,NYCFC,Subaru Park,18525,1,2,NYCFC,2019
+419,Regular Season,2019-10-06,Atlanta Utd,1.4,1.9,New England,Mercedes-Benz Stadium,44617,3,1,Atlanta Utd,2019
+420,Regular Season,2019-10-06,Toronto FC,1.7,0.5,Columbus Crew,BMO Field,23692,1,0,Toronto FC,2019
+421,Regular Season,2019-10-06,D.C. United,2.5,0.6,FC Cincinnati,Audi Field,18732,0,0,,2019
+422,Regular Season,2019-10-06,Orlando City,2.4,2.0,Chicago Fire,Exploria Stadium,22433,2,5,Chicago Fire,2019
+423,Regular Season,2019-10-06,Montreal Impact,1.5,0.9,NY Red Bulls,Saputo Stadium,15022,3,0,Montreal Impact,2019
+424,Round 1,2019-10-19,Atlanta Utd,1.2,0.8,New England,Mercedes-Benz Stadium,66114,1,0,Atlanta Utd,2019
+425,Round 1,2019-10-19,Seattle,2.8,1.9,FC Dallas,CenturyLink Field,37722,4,3,Seattle,2019
+426,Round 1,2019-10-19,Toronto FC,2.7,1.8,D.C. United,BMO Field,25331,5,1,Toronto FC,2019
+427,Round 1,2019-10-19,Real Salt Lake,1.1,0.8,Portland Timbers,Rio Tinto Stadium,17452,2,1,Real Salt Lake,2019
+428,Round 1,2019-10-20,Philadelphia,3.2,1.5,NY Red Bulls,Subaru Park,18530,4,3,Philadelphia,2019
+429,Round 1,2019-10-20,Minnesota Utd,2.0,1.4,LA Galaxy,Allianz Field,19939,1,2,LA Galaxy,2019
+430,Conference Semifinals,2019-10-23,NYCFC,1.3,1.8,Toronto FC,Citi Field,19829,1,2,Toronto FC,2019
+431,Conference Semifinals,2019-10-23,Seattle,2.0,0.3,Real Salt Lake,CenturyLink Field,37722,2,0,Seattle,2019
+432,Conference Semifinals,2019-10-24,Atlanta Utd,1.4,0.8,Philadelphia,Mercedes-Benz Stadium,41507,2,0,Atlanta Utd,2019
+433,Conference Semifinals,2019-10-24,Los Angeles FC,2.8,1.4,LA Galaxy,Banc of California Stadium,22902,5,3,Los Angeles FC,2019
+434,Conference Finals,2019-10-29,Los Angeles FC,0.8,1.2,Seattle,Banc of California Stadium,22099,1,3,Seattle,2019
+435,Conference Finals,2019-10-30,Atlanta Utd,2.7,0.1,Toronto FC,Mercedes-Benz Stadium,44055,1,2,Toronto FC,2019
+436,MLS Cup 2019,2019-11-10,Seattle,1.4,1.0,Toronto FC,CenturyLink Field,69274,3,1,Seattle,2019
